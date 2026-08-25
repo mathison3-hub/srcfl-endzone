@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:22:59.465911+00:00",
+  "generated_at": "2026-08-25T02:55:47.486568+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -18,7 +18,7 @@
         "previous_rank": 1
       },
       {
-        "manager": "Adam Christie ",
+        "manager": "Adam Christie",
         "team_name": "Big Jets Energy",
         "team_id": 2,
         "wins": 0,
@@ -27,7 +27,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": 2
+        "previous_rank": null
       },
       {
         "manager": "cody callahan",
@@ -1675,7 +1675,7 @@
           "division": "Minder"
         },
         {
-          "manager": "Adam Christie ",
+          "manager": "Adam Christie",
           "team_name": "Team Wolfgang ",
           "team_id": 2,
           "wins": 5,
@@ -1812,7 +1812,7 @@
           "division": "Minder"
         },
         {
-          "manager": "Adam Christie ",
+          "manager": "Adam Christie",
           "team_name": "Team Wolfgang ",
           "team_id": 2,
           "wins": 8,
@@ -1949,7 +1949,7 @@
           "division": "Minder"
         },
         {
-          "manager": "Adam Christie ",
+          "manager": "Adam Christie",
           "team_name": "Big Jets Energy",
           "team_id": 2,
           "wins": 4,
@@ -2086,7 +2086,7 @@
           "division": "Minder"
         },
         {
-          "manager": "Adam Christie ",
+          "manager": "Adam Christie",
           "team_name": "Big Jets Energy",
           "team_id": 2,
           "wins": 10,
@@ -2223,7 +2223,7 @@
           "division": "Minder"
         },
         {
-          "manager": "Adam Christie ",
+          "manager": "Adam Christie",
           "team_name": "Big Jets Energy",
           "team_id": 2,
           "wins": 9,
@@ -2408,15 +2408,15 @@
       }
     },
     {
-      "manager_a": "Kevin Fisher",
-      "manager_b": "cody callahan",
-      "a_wins": 11,
-      "b_wins": 4,
-      "total_games": 15,
+      "manager_a": "Adam Christie",
+      "manager_b": "Chris Mathison",
+      "a_wins": 4,
+      "b_wins": 12,
+      "total_games": 16,
       "last_meeting": {
         "year": 2025,
-        "winner": "Kevin Fisher",
-        "margin": 45.4
+        "winner": "Chris Mathison",
+        "margin": 42.9
       }
     }
   ],
@@ -2438,6 +2438,14 @@
       "score": 209.8,
       "year": 2021,
       "week": 17
+    }
+  },
+  "playoff_stats": {
+    "total_seasons": 16,
+    "most_appearances": {
+      "manager": "Adam Christie",
+      "count": 7,
+      "total_seasons": 16
     }
   },
   "comeback_player_of_year": null
