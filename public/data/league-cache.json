@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:55:47.486568+00:00",
+  "generated_at": "2026-08-25T03:05:29.681685+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -27,7 +27,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": null
+        "previous_rank": 2
       },
       {
         "manager": "cody callahan",
@@ -2420,6 +2420,111 @@
       }
     }
   ],
+  "grudge_bowl_h2h": {
+    "manager_a": "Dallas Sessions",
+    "manager_b": "Chris Mathison",
+    "a_wins": 7,
+    "b_wins": 5,
+    "total_games": 12,
+    "games": [
+      {
+        "year": 2025,
+        "week": 16,
+        "a_score": 135.6,
+        "b_score": 146.7,
+        "winner": "Chris Mathison",
+        "is_playoff": true
+      },
+      {
+        "year": 2025,
+        "week": 4,
+        "a_score": 137.7,
+        "b_score": 144.4,
+        "winner": "Chris Mathison",
+        "is_playoff": false
+      },
+      {
+        "year": 2024,
+        "week": 16,
+        "a_score": 108.6,
+        "b_score": 186.7,
+        "winner": "Chris Mathison",
+        "is_playoff": true
+      },
+      {
+        "year": 2024,
+        "week": 4,
+        "a_score": 133.1,
+        "b_score": 117.2,
+        "winner": "Dallas Sessions",
+        "is_playoff": false
+      },
+      {
+        "year": 2023,
+        "week": 4,
+        "a_score": 174.6,
+        "b_score": 112.2,
+        "winner": "Dallas Sessions",
+        "is_playoff": false
+      },
+      {
+        "year": 2022,
+        "week": 15,
+        "a_score": 137.9,
+        "b_score": 124.5,
+        "winner": "Dallas Sessions",
+        "is_playoff": true
+      },
+      {
+        "year": 2022,
+        "week": 4,
+        "a_score": 135.1,
+        "b_score": 89.7,
+        "winner": "Dallas Sessions",
+        "is_playoff": false
+      },
+      {
+        "year": 2021,
+        "week": 18,
+        "a_score": 111.7,
+        "b_score": 96.2,
+        "winner": "Dallas Sessions",
+        "is_playoff": true
+      },
+      {
+        "year": 2021,
+        "week": 17,
+        "a_score": 111.7,
+        "b_score": 96.2,
+        "winner": "Dallas Sessions",
+        "is_playoff": true
+      },
+      {
+        "year": 2021,
+        "week": 4,
+        "a_score": 138.3,
+        "b_score": 162.6,
+        "winner": "Chris Mathison",
+        "is_playoff": false
+      },
+      {
+        "year": 2020,
+        "week": 7,
+        "a_score": 137.8,
+        "b_score": 183.2,
+        "winner": "Chris Mathison",
+        "is_playoff": false
+      },
+      {
+        "year": 2019,
+        "week": 7,
+        "a_score": 141.1,
+        "b_score": 106.7,
+        "winner": "Dallas Sessions",
+        "is_playoff": false
+      }
+    ]
+  },
   "manager_profiles": null,
   "historical_bests": {
     "best_single_week": {
@@ -2443,10 +2548,237 @@
   "playoff_stats": {
     "total_seasons": 16,
     "most_appearances": {
-      "manager": "Adam Christie",
+      "manager": "Kevin Fisher",
       "count": 7,
       "total_seasons": 16
     }
   },
-  "comeback_player_of_year": null
+  "matchup_data_coverage": {
+    "years_with_matchup_data": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "years_standings_only_no_matchups": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ]
+  },
+  "comeback_player_of_year": null,
+  "comeback_by_season": [
+    {
+      "year": 2025,
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "improvement": 6,
+      "prev_standing": 10,
+      "current_standing": 4
+    },
+    {
+      "year": 2024,
+      "manager": "Adam Christie",
+      "team_name": "Big Jets Energy",
+      "improvement": 9,
+      "prev_standing": 12,
+      "current_standing": 3
+    },
+    {
+      "year": 2023,
+      "manager": "Ethan Furtek",
+      "team_name": "Dunkin' Desert",
+      "improvement": 8,
+      "prev_standing": 9,
+      "current_standing": 1
+    },
+    {
+      "year": 2022,
+      "manager": "Adam Christie",
+      "team_name": "Team Wolfgang ",
+      "improvement": 7,
+      "prev_standing": 11,
+      "current_standing": 4
+    },
+    {
+      "year": 2021,
+      "manager": "Chris Blentzas",
+      "team_name": "SD Shit Storm",
+      "improvement": 8,
+      "prev_standing": 10,
+      "current_standing": 2
+    },
+    {
+      "year": 2020,
+      "manager": "Marty Ahern",
+      "team_name": "Out With Ahernia",
+      "improvement": 9,
+      "prev_standing": 10,
+      "current_standing": 1
+    },
+    {
+      "year": 2019,
+      "manager": "Dallas Sessions",
+      "team_name": "Team Rum Ham",
+      "improvement": 9,
+      "prev_standing": 11,
+      "current_standing": 2
+    },
+    {
+      "year": 2018,
+      "manager": "Nick Cicchetti",
+      "team_name": "Ladies and Edelman",
+      "improvement": 7,
+      "prev_standing": 9,
+      "current_standing": 2
+    },
+    {
+      "year": 2017,
+      "manager": "Dallas Sessions",
+      "team_name": "Russell my  Jimmies",
+      "improvement": 7,
+      "prev_standing": 8,
+      "current_standing": 1
+    },
+    {
+      "year": 2016,
+      "manager": "Nick Cicchetti",
+      "team_name": "Ladies and Edelman",
+      "improvement": 9,
+      "prev_standing": 10,
+      "current_standing": 1
+    },
+    {
+      "year": 2015,
+      "manager": "Marty Ahern",
+      "team_name": "Out With Ahernia",
+      "improvement": 9,
+      "prev_standing": 10,
+      "current_standing": 1
+    },
+    {
+      "year": 2014,
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "improvement": 6,
+      "prev_standing": 11,
+      "current_standing": 5
+    },
+    {
+      "year": 2013,
+      "manager": "Nick Cicchetti",
+      "team_name": "Vinegar Strokes",
+      "improvement": 9,
+      "prev_standing": 10,
+      "current_standing": 1
+    },
+    {
+      "year": 2012,
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "improvement": 9,
+      "prev_standing": 10,
+      "current_standing": 1
+    },
+    {
+      "year": 2011,
+      "manager": "Jeff Pilon",
+      "team_name": "End Zone Pilons",
+      "improvement": 9,
+      "prev_standing": 10,
+      "current_standing": 1
+    }
+  ],
+  "streaks": {
+    "active_win_streak": {
+      "manager": "Chris Mathison",
+      "length": 3
+    },
+    "active_loss_streak": {
+      "manager": "Jeff Pilon",
+      "length": 8
+    },
+    "alltime_win_streak": {
+      "manager": "Dallas Sessions",
+      "length": 11,
+      "through": {
+        "year": 2023,
+        "week": 7
+      }
+    },
+    "alltime_loss_streak": {
+      "manager": "Eric Kardesh",
+      "length": 11,
+      "through": {
+        "year": 2020,
+        "week": 18
+      }
+    }
+  },
+  "best_never_won": {
+    "manager": "Kevin Fisher",
+    "team_name": "My Name Is Dak",
+    "wins": 114,
+    "losses": 98,
+    "win_pct": 0.538
+  },
+  "elo_ratings": [
+    {
+      "manager": "Chris Mathison",
+      "rating": 1700
+    },
+    {
+      "manager": "Kevin Fisher",
+      "rating": 1645
+    },
+    {
+      "manager": "Adam Christie",
+      "rating": 1557
+    },
+    {
+      "manager": "Ethan Furtek",
+      "rating": 1550
+    },
+    {
+      "manager": "Dallas Sessions",
+      "rating": 1531
+    },
+    {
+      "manager": "Eric Kardesh",
+      "rating": 1491
+    },
+    {
+      "manager": "Nick Cicchetti",
+      "rating": 1464
+    },
+    {
+      "manager": "Marty Ahern",
+      "rating": 1457
+    },
+    {
+      "manager": "Chris Blentzas",
+      "rating": 1443
+    },
+    {
+      "manager": "cody callahan",
+      "rating": 1427
+    },
+    {
+      "manager": "Greg Baudo",
+      "rating": 1406
+    },
+    {
+      "manager": "Jeff Pilon",
+      "rating": 1328
+    }
+  ]
 }
