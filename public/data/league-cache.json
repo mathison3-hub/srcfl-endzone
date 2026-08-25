@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:50:24.635840+00:00",
+  "generated_at": "2026-08-25T04:04:59.721077+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -288,7 +288,8 @@
           "standing": 4,
           "division": "USA"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2011,
@@ -425,7 +426,8 @@
           "standing": 11,
           "division": "USA"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2012,
@@ -562,7 +564,8 @@
           "standing": 6,
           "division": "USA"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2013,
@@ -699,7 +702,8 @@
           "standing": 2,
           "division": "USA"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2014,
@@ -836,7 +840,8 @@
           "standing": 8,
           "division": "USA"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2015,
@@ -973,7 +978,8 @@
           "standing": 5,
           "division": "No Dads"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2016,
@@ -1110,7 +1116,8 @@
           "standing": 12,
           "division": "No Dads"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2017,
@@ -1247,7 +1254,8 @@
           "standing": 12,
           "division": "No Dads"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2018,
@@ -1384,7 +1392,8 @@
           "standing": 5,
           "division": "East"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2019,
@@ -1521,7 +1530,8 @@
           "standing": 5,
           "division": "East"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2020,
@@ -1658,7 +1668,8 @@
           "standing": 2,
           "division": "Minder"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2021,
@@ -1795,7 +1806,8 @@
           "standing": 8,
           "division": "Minder"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2022,
@@ -1932,7 +1944,8 @@
           "standing": 11,
           "division": "Minder"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2023,
@@ -2069,7 +2082,8 @@
           "standing": 7,
           "division": "Minder"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2024,
@@ -2206,7 +2220,8 @@
           "standing": 2,
           "division": "Minder"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     },
     {
       "year": 2025,
@@ -2343,7 +2358,8 @@
           "standing": 1,
           "division": "Minder"
         }
-      ]
+      ],
+      "playoff_team_count": 6
     }
   ],
   "rivalries": [
@@ -2548,17 +2564,17 @@
   "playoff_stats": {
     "total_seasons": 16,
     "most_appearances": {
-      "manager": "Kevin Fisher",
-      "count": 6,
+      "manager": "Marty Ahern",
+      "count": 11,
       "total_seasons": 16
     },
     "least_appearances": {
-      "manager": "Jeff Pilon",
-      "count": 2,
+      "manager": "Eric Kardesh",
+      "count": 5,
       "total_seasons": 16
     },
     "longest_drought": {
-      "manager": "Jeff Pilon",
+      "manager": "Nick Cicchetti",
       "seasons": 3
     }
   },
