@@ -1,0 +1,22 @@
+{
+  "_readme": "This file is the single source of truth for Keeper Rankings. It starts EMPTY on purpose — the site shows a 'coming soon' placeholder until this array has real entries. Once all 12 managers have submitted their two keepers, fill in one object per player below (24 total) and push this file to GitHub — the Keeper Rankings section picks it up automatically on the next page load, no code changes needed.",
+  "_schema": {
+    "manager": "Manager's real name, must exactly match the name ESPN returns (see current_season.teams[].manager in /api/sync-espn) so it lines up with the rest of the site",
+    "team": "Their 2026 team name",
+    "player": "Player's name",
+    "last_pts": "Real total fantasy points from LAST season (2025) - pull from ESPN's My Team > 2025 Season Stats page, TOT column",
+    "proj_pts": "This season's (2026) projected total points - use FantasyPros, ESPN's own projections, or another projection source",
+    "keeper_round": "The round this keeper will COST to keep = (the round they were drafted in 2025) minus 1. If they were a free-agent/waiver pickup during 2025, use the LAST round of the draft (15). If they were drafted in Round 1, they are NOT eligible to be kept at all - leave them out entirely.",
+    "adp_round": "Their CURRENT (2026) average draft position, converted to a round number for a 12-team league: round = ceil(overall_ADP_pick / 12). Look up current ADP on FantasyPros or similar."
+  },
+  "_example_entry_for_reference_only_delete_before_using": {
+    "manager": "Chris Mathison",
+    "team": "Mathisunday Funday",
+    "player": "Drake Maye",
+    "last_pts": 414.96,
+    "proj_pts": 380,
+    "keeper_round": 10,
+    "adp_round": 5
+  },
+  "keepers": []
+}
