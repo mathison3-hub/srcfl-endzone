@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T02:07:42.071721+00:00",
+  "generated_at": "2026-08-25T02:22:59.465911+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -15,7 +15,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Minder",
-        "previous_rank": null
+        "previous_rank": 1
       },
       {
         "manager": "Adam Christie ",
@@ -27,7 +27,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": null
+        "previous_rank": 2
       },
       {
         "manager": "cody callahan",
@@ -39,7 +39,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": null
+        "previous_rank": 3
       },
       {
         "manager": "Marty Ahern",
@@ -51,7 +51,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": null
+        "previous_rank": 4
       },
       {
         "manager": "Nick Cicchetti",
@@ -63,7 +63,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": null
+        "previous_rank": 5
       },
       {
         "manager": "Ethan Furtek",
@@ -75,7 +75,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Minder",
-        "previous_rank": null
+        "previous_rank": 6
       },
       {
         "manager": "Chris Blentzas",
@@ -87,7 +87,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": null
+        "previous_rank": 7
       },
       {
         "manager": "Kevin Fisher",
@@ -99,7 +99,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Minder",
-        "previous_rank": null
+        "previous_rank": 8
       },
       {
         "manager": "Eric Kardesh",
@@ -111,7 +111,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Minder",
-        "previous_rank": null
+        "previous_rank": 9
       },
       {
         "manager": "Greg Baudo",
@@ -123,7 +123,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Minder",
-        "previous_rank": null
+        "previous_rank": 10
       },
       {
         "manager": "Jeff Pilon",
@@ -135,7 +135,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Baughfense",
-        "previous_rank": null
+        "previous_rank": 11
       },
       {
         "manager": "Chris Mathison",
@@ -147,7 +147,7 @@
         "points_against": 0.0,
         "standing": 0,
         "division": "Minder",
-        "previous_rank": null
+        "previous_rank": 12
       }
     ]
   },
@@ -164,7 +164,7 @@
           "losses": 8,
           "points_for": 1470.0,
           "points_against": 1457.0,
-          "standing": 9,
+          "standing": 11,
           "division": "USA"
         },
         {
@@ -175,7 +175,7 @@
           "losses": 7,
           "points_for": 1462.0,
           "points_against": 1439.0,
-          "standing": 8,
+          "standing": 9,
           "division": "ASU"
         },
         {
@@ -186,7 +186,7 @@
           "losses": 5,
           "points_for": 1704.0,
           "points_against": 1442.0,
-          "standing": 5,
+          "standing": 3,
           "division": "ASU"
         },
         {
@@ -197,7 +197,7 @@
           "losses": 4,
           "points_for": 1374.0,
           "points_against": 1328.0,
-          "standing": 3,
+          "standing": 5,
           "division": "USA"
         },
         {
@@ -208,7 +208,7 @@
           "losses": 5,
           "points_for": 1500.0,
           "points_against": 1364.0,
-          "standing": 4,
+          "standing": 6,
           "division": "USA"
         },
         {
@@ -219,7 +219,7 @@
           "losses": 4,
           "points_for": 1611.0,
           "points_against": 1453.0,
-          "standing": 1,
+          "standing": 2,
           "division": "USA"
         },
         {
@@ -230,7 +230,7 @@
           "losses": 8,
           "points_for": 1404.0,
           "points_against": 1349.0,
-          "standing": 10,
+          "standing": 8,
           "division": "USA"
         },
         {
@@ -241,7 +241,7 @@
           "losses": 9,
           "points_for": 1303.0,
           "points_against": 1518.0,
-          "standing": 11,
+          "standing": 7,
           "division": "ASU"
         },
         {
@@ -263,7 +263,7 @@
           "losses": 5,
           "points_for": 1342.0,
           "points_against": 1304.0,
-          "standing": 2,
+          "standing": 1,
           "division": "ASU"
         },
         {
@@ -274,7 +274,7 @@
           "losses": 7,
           "points_for": 1420.0,
           "points_against": 1503.0,
-          "standing": 7,
+          "standing": 10,
           "division": "ASU"
         },
         {
@@ -285,7 +285,7 @@
           "losses": 6,
           "points_for": 1390.0,
           "points_against": 1442.0,
-          "standing": 6,
+          "standing": 4,
           "division": "USA"
         }
       ]
@@ -301,7 +301,7 @@
           "losses": 6,
           "points_for": 1646.0,
           "points_against": 1537.0,
-          "standing": 4,
+          "standing": 3,
           "division": "USA"
         },
         {
@@ -323,7 +323,7 @@
           "losses": 7,
           "points_for": 1568.0,
           "points_against": 1507.0,
-          "standing": 8,
+          "standing": 10,
           "division": "ASU"
         },
         {
@@ -334,7 +334,7 @@
           "losses": 8,
           "points_for": 1350.0,
           "points_against": 1529.0,
-          "standing": 11,
+          "standing": 8,
           "division": "USA"
         },
         {
@@ -356,7 +356,7 @@
           "losses": 4,
           "points_for": 1687.0,
           "points_against": 1519.0,
-          "standing": 2,
+          "standing": 4,
           "division": "USA"
         },
         {
@@ -367,7 +367,7 @@
           "losses": 6,
           "points_for": 1655.0,
           "points_against": 1404.0,
-          "standing": 3,
+          "standing": 2,
           "division": "USA"
         },
         {
@@ -378,7 +378,7 @@
           "losses": 8,
           "points_for": 1546.0,
           "points_against": 1524.0,
-          "standing": 9,
+          "standing": 7,
           "division": "ASU"
         },
         {
@@ -389,7 +389,7 @@
           "losses": 8,
           "points_for": 1270.0,
           "points_against": 1610.0,
-          "standing": 10,
+          "standing": 9,
           "division": "ASU"
         },
         {
@@ -422,7 +422,7 @@
           "losses": 6,
           "points_for": 1401.0,
           "points_against": 1525.0,
-          "standing": 7,
+          "standing": 11,
           "division": "USA"
         }
       ]
@@ -438,7 +438,7 @@
           "losses": 4,
           "points_for": 1716.0,
           "points_against": 1639.0,
-          "standing": 1,
+          "standing": 2,
           "division": "USA"
         },
         {
@@ -449,7 +449,7 @@
           "losses": 6,
           "points_for": 1790.0,
           "points_against": 1699.0,
-          "standing": 4,
+          "standing": 5,
           "division": "ASU"
         },
         {
@@ -460,7 +460,7 @@
           "losses": 4,
           "points_for": 1632.0,
           "points_against": 1370.0,
-          "standing": 2,
+          "standing": 1,
           "division": "ASU"
         },
         {
@@ -471,7 +471,7 @@
           "losses": 6,
           "points_for": 1487.0,
           "points_against": 1409.0,
-          "standing": 7,
+          "standing": 8,
           "division": "USA"
         },
         {
@@ -482,7 +482,7 @@
           "losses": 8,
           "points_for": 1377.0,
           "points_against": 1577.0,
-          "standing": 9,
+          "standing": 10,
           "division": "USA"
         },
         {
@@ -493,7 +493,7 @@
           "losses": 9,
           "points_for": 1444.0,
           "points_against": 1704.0,
-          "standing": 11,
+          "standing": 9,
           "division": "USA"
         },
         {
@@ -515,7 +515,7 @@
           "losses": 7,
           "points_for": 1585.0,
           "points_against": 1641.0,
-          "standing": 8,
+          "standing": 7,
           "division": "ASU"
         },
         {
@@ -526,7 +526,7 @@
           "losses": 9,
           "points_for": 1347.0,
           "points_against": 1559.0,
-          "standing": 12,
+          "standing": 11,
           "division": "ASU"
         },
         {
@@ -537,7 +537,7 @@
           "losses": 8,
           "points_for": 1332.0,
           "points_against": 1572.0,
-          "standing": 10,
+          "standing": 12,
           "division": "ASU"
         },
         {
@@ -548,7 +548,7 @@
           "losses": 6,
           "points_for": 1660.0,
           "points_against": 1469.0,
-          "standing": 5,
+          "standing": 4,
           "division": "ASU"
         },
         {
@@ -575,7 +575,7 @@
           "losses": 5,
           "points_for": 1681.0,
           "points_against": 1567.0,
-          "standing": 4,
+          "standing": 6,
           "division": "USA"
         },
         {
@@ -586,7 +586,7 @@
           "losses": 5,
           "points_for": 1665.0,
           "points_against": 1521.0,
-          "standing": 6,
+          "standing": 3,
           "division": "ASU"
         },
         {
@@ -597,7 +597,7 @@
           "losses": 9,
           "points_for": 1487.0,
           "points_against": 1697.0,
-          "standing": 10,
+          "standing": 11,
           "division": "ASU"
         },
         {
@@ -608,7 +608,7 @@
           "losses": 5,
           "points_for": 1694.0,
           "points_against": 1478.0,
-          "standing": 3,
+          "standing": 5,
           "division": "USA"
         },
         {
@@ -619,7 +619,7 @@
           "losses": 3,
           "points_for": 1661.0,
           "points_against": 1425.0,
-          "standing": 2,
+          "standing": 1,
           "division": "USA"
         },
         {
@@ -630,7 +630,7 @@
           "losses": 8,
           "points_for": 1296.0,
           "points_against": 1474.0,
-          "standing": 9,
+          "standing": 8,
           "division": "USA"
         },
         {
@@ -641,7 +641,7 @@
           "losses": 6,
           "points_for": 1629.0,
           "points_against": 1523.0,
-          "standing": 7,
+          "standing": 12,
           "division": "USA"
         },
         {
@@ -652,7 +652,7 @@
           "losses": 8,
           "points_for": 1533.0,
           "points_against": 1599.0,
-          "standing": 8,
+          "standing": 9,
           "division": "ASU"
         },
         {
@@ -663,7 +663,7 @@
           "losses": 9,
           "points_for": 1367.0,
           "points_against": 1640.0,
-          "standing": 11,
+          "standing": 7,
           "division": "ASU"
         },
         {
@@ -674,7 +674,7 @@
           "losses": 10,
           "points_for": 1240.0,
           "points_against": 1662.0,
-          "standing": 12,
+          "standing": 10,
           "division": "ASU"
         },
         {
@@ -685,7 +685,7 @@
           "losses": 3,
           "points_for": 1736.0,
           "points_against": 1489.0,
-          "standing": 1,
+          "standing": 4,
           "division": "ASU"
         },
         {
@@ -696,7 +696,7 @@
           "losses": 5,
           "points_for": 1673.0,
           "points_against": 1587.0,
-          "standing": 5,
+          "standing": 2,
           "division": "USA"
         }
       ]
@@ -745,7 +745,7 @@
           "losses": 7,
           "points_for": 1634.0,
           "points_against": 1551.0,
-          "standing": 8,
+          "standing": 10,
           "division": "USA"
         },
         {
@@ -756,7 +756,7 @@
           "losses": 7,
           "points_for": 1432.0,
           "points_against": 1554.0,
-          "standing": 10,
+          "standing": 7,
           "division": "USA"
         },
         {
@@ -778,7 +778,7 @@
           "losses": 7,
           "points_for": 1536.0,
           "points_against": 1627.0,
-          "standing": 9,
+          "standing": 11,
           "division": "USA"
         },
         {
@@ -789,7 +789,7 @@
           "losses": 5,
           "points_for": 1746.0,
           "points_against": 1540.0,
-          "standing": 3,
+          "standing": 4,
           "division": "ASU"
         },
         {
@@ -811,7 +811,7 @@
           "losses": 9,
           "points_for": 1581.0,
           "points_against": 1644.0,
-          "standing": 11,
+          "standing": 9,
           "division": "ASU"
         },
         {
@@ -822,7 +822,7 @@
           "losses": 5,
           "points_for": 1549.0,
           "points_against": 1516.0,
-          "standing": 4,
+          "standing": 3,
           "division": "ASU"
         },
         {
@@ -833,7 +833,7 @@
           "losses": 6,
           "points_for": 1635.0,
           "points_against": 1559.0,
-          "standing": 7,
+          "standing": 8,
           "division": "USA"
         }
       ]
@@ -860,7 +860,7 @@
           "losses": 5,
           "points_for": 1637.0,
           "points_against": 1624.0,
-          "standing": 2,
+          "standing": 4,
           "division": "No Dads"
         },
         {
@@ -871,7 +871,7 @@
           "losses": 5,
           "points_for": 1565.0,
           "points_against": 1553.0,
-          "standing": 4,
+          "standing": 2,
           "division": "No Dads"
         },
         {
@@ -882,7 +882,7 @@
           "losses": 5,
           "points_for": 1703.0,
           "points_against": 1448.0,
-          "standing": 3,
+          "standing": 1,
           "division": "Dads"
         },
         {
@@ -893,7 +893,7 @@
           "losses": 8,
           "points_for": 1461.0,
           "points_against": 1612.0,
-          "standing": 9,
+          "standing": 10,
           "division": "No Dads"
         },
         {
@@ -904,7 +904,7 @@
           "losses": 6,
           "points_for": 1525.0,
           "points_against": 1482.0,
-          "standing": 5,
+          "standing": 6,
           "division": "Dads"
         },
         {
@@ -915,7 +915,7 @@
           "losses": 8,
           "points_for": 1372.0,
           "points_against": 1468.0,
-          "standing": 11,
+          "standing": 8,
           "division": "No Dads"
         },
         {
@@ -926,7 +926,7 @@
           "losses": 3,
           "points_for": 1869.0,
           "points_against": 1527.0,
-          "standing": 1,
+          "standing": 3,
           "division": "Dads"
         },
         {
@@ -937,7 +937,7 @@
           "losses": 8,
           "points_for": 1457.0,
           "points_against": 1531.0,
-          "standing": 10,
+          "standing": 9,
           "division": "Dads"
         },
         {
@@ -948,7 +948,7 @@
           "losses": 7,
           "points_for": 1373.0,
           "points_against": 1474.0,
-          "standing": 8,
+          "standing": 12,
           "division": "No Dads"
         },
         {
@@ -959,7 +959,7 @@
           "losses": 10,
           "points_for": 1388.0,
           "points_against": 1653.0,
-          "standing": 12,
+          "standing": 11,
           "division": "Dads"
         },
         {
@@ -970,7 +970,7 @@
           "losses": 6,
           "points_for": 1493.0,
           "points_against": 1494.0,
-          "standing": 6,
+          "standing": 5,
           "division": "No Dads"
         }
       ]
@@ -986,7 +986,7 @@
           "losses": 7,
           "points_for": 1564.0,
           "points_against": 1583.0,
-          "standing": 7,
+          "standing": 8,
           "division": "Dads"
         },
         {
@@ -1008,7 +1008,7 @@
           "losses": 8,
           "points_for": 1408.0,
           "points_against": 1528.0,
-          "standing": 12,
+          "standing": 11,
           "division": "No Dads"
         },
         {
@@ -1019,7 +1019,7 @@
           "losses": 4,
           "points_for": 1666.0,
           "points_against": 1598.0,
-          "standing": 1,
+          "standing": 4,
           "division": "Dads"
         },
         {
@@ -1030,7 +1030,7 @@
           "losses": 5,
           "points_for": 1676.0,
           "points_against": 1591.0,
-          "standing": 4,
+          "standing": 1,
           "division": "No Dads"
         },
         {
@@ -1041,7 +1041,7 @@
           "losses": 6,
           "points_for": 1504.0,
           "points_against": 1467.0,
-          "standing": 5,
+          "standing": 6,
           "division": "Dads"
         },
         {
@@ -1063,7 +1063,7 @@
           "losses": 6,
           "points_for": 1572.0,
           "points_against": 1480.0,
-          "standing": 6,
+          "standing": 5,
           "division": "Dads"
         },
         {
@@ -1074,7 +1074,7 @@
           "losses": 7,
           "points_for": 1402.0,
           "points_against": 1484.0,
-          "standing": 8,
+          "standing": 7,
           "division": "Dads"
         },
         {
@@ -1107,7 +1107,7 @@
           "losses": 8,
           "points_for": 1382.0,
           "points_against": 1502.0,
-          "standing": 11,
+          "standing": 12,
           "division": "No Dads"
         }
       ]
@@ -1134,7 +1134,7 @@
           "losses": 6,
           "points_for": 1435.0,
           "points_against": 1507.0,
-          "standing": 4,
+          "standing": 6,
           "division": "No Dads"
         },
         {
@@ -1145,7 +1145,7 @@
           "losses": 5,
           "points_for": 1535.0,
           "points_against": 1432.0,
-          "standing": 2,
+          "standing": 4,
           "division": "No Dads"
         },
         {
@@ -1156,7 +1156,7 @@
           "losses": 4,
           "points_for": 1475.0,
           "points_against": 1275.0,
-          "standing": 3,
+          "standing": 2,
           "division": "Dads"
         },
         {
@@ -1178,7 +1178,7 @@
           "losses": 9,
           "points_for": 1323.0,
           "points_against": 1609.0,
-          "standing": 12,
+          "standing": 10,
           "division": "Dads"
         },
         {
@@ -1200,7 +1200,7 @@
           "losses": 7,
           "points_for": 1548.0,
           "points_against": 1506.0,
-          "standing": 6,
+          "standing": 5,
           "division": "Dads"
         },
         {
@@ -1211,7 +1211,7 @@
           "losses": 6,
           "points_for": 1431.0,
           "points_against": 1471.0,
-          "standing": 5,
+          "standing": 3,
           "division": "Dads"
         },
         {
@@ -1244,7 +1244,7 @@
           "losses": 8,
           "points_for": 1293.0,
           "points_against": 1500.0,
-          "standing": 10,
+          "standing": 12,
           "division": "No Dads"
         }
       ]
@@ -1271,7 +1271,7 @@
           "losses": 9,
           "points_for": 1436.4,
           "points_against": 1711.2,
-          "standing": 10,
+          "standing": 7,
           "division": "East"
         },
         {
@@ -1282,7 +1282,7 @@
           "losses": 4,
           "points_for": 1814.4,
           "points_against": 1706.2,
-          "standing": 3,
+          "standing": 6,
           "division": "South"
         },
         {
@@ -1293,7 +1293,7 @@
           "losses": 2,
           "points_for": 1846.9,
           "points_against": 1700.4,
-          "standing": 2,
+          "standing": 1,
           "division": "Central"
         },
         {
@@ -1304,7 +1304,7 @@
           "losses": 2,
           "points_for": 1770.3,
           "points_against": 1547.7,
-          "standing": 1,
+          "standing": 2,
           "division": "West"
         },
         {
@@ -1315,7 +1315,7 @@
           "losses": 6,
           "points_for": 1676.9,
           "points_against": 1580.7,
-          "standing": 5,
+          "standing": 4,
           "division": "Central"
         },
         {
@@ -1326,7 +1326,7 @@
           "losses": 6,
           "points_for": 1733.1,
           "points_against": 1620.7,
-          "standing": 6,
+          "standing": 3,
           "division": "West"
         },
         {
@@ -1348,7 +1348,7 @@
           "losses": 8,
           "points_for": 1623.0,
           "points_against": 1708.0,
-          "standing": 9,
+          "standing": 10,
           "division": "Central"
         },
         {
@@ -1359,7 +1359,7 @@
           "losses": 7,
           "points_for": 1512.3,
           "points_against": 1611.9,
-          "standing": 7,
+          "standing": 8,
           "division": "East"
         },
         {
@@ -1370,7 +1370,7 @@
           "losses": 8,
           "points_for": 1534.1,
           "points_against": 1687.7,
-          "standing": 8,
+          "standing": 9,
           "division": "South"
         },
         {
@@ -1381,7 +1381,7 @@
           "losses": 6,
           "points_for": 1915.9,
           "points_against": 1706.9,
-          "standing": 4,
+          "standing": 5,
           "division": "East"
         }
       ]
@@ -1397,7 +1397,7 @@
           "losses": 6,
           "points_for": 1780.0,
           "points_against": 1631.0,
-          "standing": 3,
+          "standing": 2,
           "division": "West"
         },
         {
@@ -1408,7 +1408,7 @@
           "losses": 9,
           "points_for": 1512.8,
           "points_against": 1606.7,
-          "standing": 11,
+          "standing": 7,
           "division": "East"
         },
         {
@@ -1430,7 +1430,7 @@
           "losses": 6,
           "points_for": 1670.4,
           "points_against": 1668.6,
-          "standing": 7,
+          "standing": 10,
           "division": "Central"
         },
         {
@@ -1441,7 +1441,7 @@
           "losses": 8,
           "points_for": 1415.8,
           "points_against": 1509.0,
-          "standing": 10,
+          "standing": 8,
           "division": "West"
         },
         {
@@ -1474,7 +1474,7 @@
           "losses": 5,
           "points_for": 1527.6,
           "points_against": 1489.6,
-          "standing": 2,
+          "standing": 4,
           "division": "South"
         },
         {
@@ -1485,7 +1485,7 @@
           "losses": 6,
           "points_for": 1672.4,
           "points_against": 1635.3,
-          "standing": 8,
+          "standing": 12,
           "division": "Central"
         },
         {
@@ -1496,7 +1496,7 @@
           "losses": 10,
           "points_for": 1412.0,
           "points_against": 1706.5,
-          "standing": 12,
+          "standing": 11,
           "division": "East"
         },
         {
@@ -1507,7 +1507,7 @@
           "losses": 5,
           "points_for": 1628.2,
           "points_against": 1464.7,
-          "standing": 5,
+          "standing": 3,
           "division": "South"
         },
         {
@@ -1518,7 +1518,7 @@
           "losses": 8,
           "points_for": 1471.1,
           "points_against": 1624.0,
-          "standing": 4,
+          "standing": 5,
           "division": "East"
         }
       ]
@@ -1534,7 +1534,7 @@
           "losses": 7,
           "points_for": 1698.6,
           "points_against": 1651.9,
-          "standing": 8,
+          "standing": 7,
           "division": "Minder"
         },
         {
@@ -1545,7 +1545,7 @@
           "losses": 9,
           "points_for": 1470.8,
           "points_against": 1616.8,
-          "standing": 10,
+          "standing": 9,
           "division": "Baughfense"
         },
         {
@@ -1556,7 +1556,7 @@
           "losses": 6,
           "points_for": 1695.2,
           "points_against": 1705.8,
-          "standing": 6,
+          "standing": 4,
           "division": "Baughfense"
         },
         {
@@ -1578,7 +1578,7 @@
           "losses": 4,
           "points_for": 1596.8,
           "points_against": 1519.3,
-          "standing": 4,
+          "standing": 3,
           "division": "Baughfense"
         },
         {
@@ -1589,7 +1589,7 @@
           "losses": 6,
           "points_for": 1573.5,
           "points_against": 1647.2,
-          "standing": 7,
+          "standing": 8,
           "division": "Minder"
         },
         {
@@ -1600,7 +1600,7 @@
           "losses": 8,
           "points_for": 1580.1,
           "points_against": 1547.3,
-          "standing": 9,
+          "standing": 10,
           "division": "Baughfense"
         },
         {
@@ -1611,7 +1611,7 @@
           "losses": 4,
           "points_for": 1697.3,
           "points_against": 1586.6,
-          "standing": 3,
+          "standing": 5,
           "division": "Minder"
         },
         {
@@ -1622,7 +1622,7 @@
           "losses": 11,
           "points_for": 1378.3,
           "points_against": 1736.9,
-          "standing": 11,
+          "standing": 12,
           "division": "Minder"
         },
         {
@@ -1633,7 +1633,7 @@
           "losses": 5,
           "points_for": 1693.2,
           "points_against": 1555.9,
-          "standing": 5,
+          "standing": 6,
           "division": "Minder"
         },
         {
@@ -1644,7 +1644,7 @@
           "losses": 11,
           "points_for": 1480.8,
           "points_against": 1733.1,
-          "standing": 12,
+          "standing": 11,
           "division": "Baughfense"
         },
         {
@@ -1671,7 +1671,7 @@
           "losses": 8,
           "points_for": 1791.7,
           "points_against": 1807.2,
-          "standing": 9,
+          "standing": 7,
           "division": "Minder"
         },
         {
@@ -1682,7 +1682,7 @@
           "losses": 9,
           "points_for": 1645.4,
           "points_against": 1700.1,
-          "standing": 10,
+          "standing": 11,
           "division": "Baughfense"
         },
         {
@@ -1693,7 +1693,7 @@
           "losses": 7,
           "points_for": 1966.1,
           "points_against": 1757.2,
-          "standing": 5,
+          "standing": 3,
           "division": "Baughfense"
         },
         {
@@ -1704,7 +1704,7 @@
           "losses": 6,
           "points_for": 1774.6,
           "points_against": 1722.5,
-          "standing": 4,
+          "standing": 5,
           "division": "Baughfense"
         },
         {
@@ -1715,7 +1715,7 @@
           "losses": 7,
           "points_for": 1633.6,
           "points_against": 1727.6,
-          "standing": 8,
+          "standing": 9,
           "division": "Baughfense"
         },
         {
@@ -1726,7 +1726,7 @@
           "losses": 10,
           "points_for": 1423.1,
           "points_against": 1664.0,
-          "standing": 11,
+          "standing": 10,
           "division": "Minder"
         },
         {
@@ -1748,7 +1748,7 @@
           "losses": 4,
           "points_for": 1642.9,
           "points_against": 1518.4,
-          "standing": 3,
+          "standing": 6,
           "division": "Minder"
         },
         {
@@ -1759,7 +1759,7 @@
           "losses": 7,
           "points_for": 1660.1,
           "points_against": 1639.4,
-          "standing": 6,
+          "standing": 4,
           "division": "Minder"
         },
         {
@@ -1792,7 +1792,7 @@
           "losses": 7,
           "points_for": 1756.8,
           "points_against": 1782.9,
-          "standing": 7,
+          "standing": 8,
           "division": "Minder"
         }
       ]
@@ -1808,7 +1808,7 @@
           "losses": 8,
           "points_for": 1687.6,
           "points_against": 1710.9,
-          "standing": 8,
+          "standing": 7,
           "division": "Minder"
         },
         {
@@ -1819,7 +1819,7 @@
           "losses": 6,
           "points_for": 1546.7,
           "points_against": 1587.2,
-          "standing": 5,
+          "standing": 4,
           "division": "Baughfense"
         },
         {
@@ -1830,7 +1830,7 @@
           "losses": 9,
           "points_for": 1617.8,
           "points_against": 1643.4,
-          "standing": 11,
+          "standing": 8,
           "division": "Baughfense"
         },
         {
@@ -1841,7 +1841,7 @@
           "losses": 4,
           "points_for": 1737.5,
           "points_against": 1592.0,
-          "standing": 1,
+          "standing": 2,
           "division": "Baughfense"
         },
         {
@@ -1852,7 +1852,7 @@
           "losses": 6,
           "points_for": 1770.8,
           "points_against": 1540.8,
-          "standing": 6,
+          "standing": 5,
           "division": "Baughfense"
         },
         {
@@ -1863,7 +1863,7 @@
           "losses": 9,
           "points_for": 1668.7,
           "points_against": 1817.8,
-          "standing": 10,
+          "standing": 9,
           "division": "Minder"
         },
         {
@@ -1874,7 +1874,7 @@
           "losses": 5,
           "points_for": 1854.8,
           "points_against": 1657.7,
-          "standing": 3,
+          "standing": 1,
           "division": "Baughfense"
         },
         {
@@ -1885,7 +1885,7 @@
           "losses": 6,
           "points_for": 1629.5,
           "points_against": 1712.0,
-          "standing": 2,
+          "standing": 3,
           "division": "Minder"
         },
         {
@@ -1907,7 +1907,7 @@
           "losses": 8,
           "points_for": 1632.3,
           "points_against": 1834.4,
-          "standing": 9,
+          "standing": 10,
           "division": "Minder"
         },
         {
@@ -1918,7 +1918,7 @@
           "losses": 6,
           "points_for": 1689.2,
           "points_against": 1626.6,
-          "standing": 4,
+          "standing": 6,
           "division": "Baughfense"
         },
         {
@@ -1929,7 +1929,7 @@
           "losses": 7,
           "points_for": 1702.4,
           "points_against": 1658.9,
-          "standing": 7,
+          "standing": 11,
           "division": "Minder"
         }
       ]
@@ -1945,7 +1945,7 @@
           "losses": 6,
           "points_for": 1690.6,
           "points_against": 1693.7,
-          "standing": 4,
+          "standing": 5,
           "division": "Minder"
         },
         {
@@ -1967,7 +1967,7 @@
           "losses": 8,
           "points_for": 1627.9,
           "points_against": 1686.0,
-          "standing": 11,
+          "standing": 8,
           "division": "Baughfense"
         },
         {
@@ -1978,7 +1978,7 @@
           "losses": 7,
           "points_for": 1670.4,
           "points_against": 1771.9,
-          "standing": 5,
+          "standing": 2,
           "division": "Baughfense"
         },
         {
@@ -1989,7 +1989,7 @@
           "losses": 7,
           "points_for": 1792.6,
           "points_against": 1690.4,
-          "standing": 7,
+          "standing": 11,
           "division": "Baughfense"
         },
         {
@@ -2000,7 +2000,7 @@
           "losses": 5,
           "points_for": 1943.3,
           "points_against": 1666.0,
-          "standing": 3,
+          "standing": 1,
           "division": "Minder"
         },
         {
@@ -2011,7 +2011,7 @@
           "losses": 5,
           "points_for": 1894.7,
           "points_against": 1637.3,
-          "standing": 2,
+          "standing": 3,
           "division": "Baughfense"
         },
         {
@@ -2044,7 +2044,7 @@
           "losses": 5,
           "points_for": 1713.3,
           "points_against": 1685.2,
-          "standing": 1,
+          "standing": 4,
           "division": "Minder"
         },
         {
@@ -2055,7 +2055,7 @@
           "losses": 8,
           "points_for": 1602.3,
           "points_against": 1612.7,
-          "standing": 8,
+          "standing": 10,
           "division": "Baughfense"
         },
         {
@@ -2066,7 +2066,7 @@
           "losses": 8,
           "points_for": 1646.4,
           "points_against": 1862.2,
-          "standing": 10,
+          "standing": 7,
           "division": "Minder"
         }
       ]
@@ -2082,7 +2082,7 @@
           "losses": 7,
           "points_for": 1776.1,
           "points_against": 1762.7,
-          "standing": 5,
+          "standing": 4,
           "division": "Minder"
         },
         {
@@ -2093,7 +2093,7 @@
           "losses": 4,
           "points_for": 1724.4,
           "points_against": 1510.9,
-          "standing": 2,
+          "standing": 3,
           "division": "Baughfense"
         },
         {
@@ -2104,7 +2104,7 @@
           "losses": 8,
           "points_for": 1695.7,
           "points_against": 1718.7,
-          "standing": 9,
+          "standing": 10,
           "division": "Baughfense"
         },
         {
@@ -2115,7 +2115,7 @@
           "losses": 6,
           "points_for": 1750.6,
           "points_against": 1659.6,
-          "standing": 4,
+          "standing": 6,
           "division": "Baughfense"
         },
         {
@@ -2126,7 +2126,7 @@
           "losses": 11,
           "points_for": 1569.7,
           "points_against": 1820.6,
-          "standing": 12,
+          "standing": 8,
           "division": "Baughfense"
         },
         {
@@ -2137,7 +2137,7 @@
           "losses": 8,
           "points_for": 1819.4,
           "points_against": 1660.4,
-          "standing": 6,
+          "standing": 1,
           "division": "Minder"
         },
         {
@@ -2148,7 +2148,7 @@
           "losses": 8,
           "points_for": 1553.6,
           "points_against": 1848.6,
-          "standing": 7,
+          "standing": 11,
           "division": "Baughfense"
         },
         {
@@ -2159,7 +2159,7 @@
           "losses": 4,
           "points_for": 1700.7,
           "points_against": 1579.1,
-          "standing": 3,
+          "standing": 5,
           "division": "Minder"
         },
         {
@@ -2170,7 +2170,7 @@
           "losses": 8,
           "points_for": 1669.9,
           "points_against": 1824.1,
-          "standing": 10,
+          "standing": 9,
           "division": "Minder"
         },
         {
@@ -2181,7 +2181,7 @@
           "losses": 10,
           "points_for": 1462.0,
           "points_against": 1710.0,
-          "standing": 11,
+          "standing": 12,
           "division": "Minder"
         },
         {
@@ -2192,7 +2192,7 @@
           "losses": 8,
           "points_for": 1714.9,
           "points_against": 1712.8,
-          "standing": 8,
+          "standing": 7,
           "division": "Baughfense"
         },
         {
@@ -2203,7 +2203,7 @@
           "losses": 2,
           "points_for": 1836.9,
           "points_against": 1466.4,
-          "standing": 1,
+          "standing": 2,
           "division": "Minder"
         }
       ]
@@ -2219,7 +2219,7 @@
           "losses": 6,
           "points_for": 1703.3,
           "points_against": 1552.7,
-          "standing": 5,
+          "standing": 3,
           "division": "Minder"
         },
         {
@@ -2241,7 +2241,7 @@
           "losses": 8,
           "points_for": 1744.8,
           "points_against": 1824.1,
-          "standing": 6,
+          "standing": 4,
           "division": "Baughfense"
         },
         {
@@ -2252,7 +2252,7 @@
           "losses": 8,
           "points_for": 1498.1,
           "points_against": 1696.3,
-          "standing": 9,
+          "standing": 10,
           "division": "Baughfense"
         },
         {
@@ -2274,7 +2274,7 @@
           "losses": 8,
           "points_for": 1695.3,
           "points_against": 1650.7,
-          "standing": 10,
+          "standing": 9,
           "division": "Minder"
         },
         {
@@ -2296,7 +2296,7 @@
           "losses": 4,
           "points_for": 1705.2,
           "points_against": 1545.6,
-          "standing": 4,
+          "standing": 5,
           "division": "Minder"
         },
         {
@@ -2307,7 +2307,7 @@
           "losses": 4,
           "points_for": 1834.5,
           "points_against": 1524.3,
-          "standing": 3,
+          "standing": 6,
           "division": "Minder"
         },
         {
