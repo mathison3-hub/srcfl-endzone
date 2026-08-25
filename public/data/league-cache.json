@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:39:47.144424+00:00",
+  "generated_at": "2026-08-25T03:50:24.635840+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -2457,7 +2457,7 @@
         "a_score": 111.7,
         "b_score": 96.2,
         "winner": "Dallas Sessions",
-        "is_playoff": true
+        "is_playoff": false
       },
       {
         "year": 2021,
@@ -2465,7 +2465,7 @@
         "a_score": 111.7,
         "b_score": 96.2,
         "winner": "Dallas Sessions",
-        "is_playoff": true
+        "is_playoff": false
       },
       {
         "year": 2022,
@@ -2481,7 +2481,7 @@
         "a_score": 137.9,
         "b_score": 124.5,
         "winner": "Dallas Sessions",
-        "is_playoff": true
+        "is_playoff": false
       },
       {
         "year": 2023,
@@ -2548,14 +2548,18 @@
   "playoff_stats": {
     "total_seasons": 16,
     "most_appearances": {
-      "manager": "Adam Christie",
-      "count": 7,
+      "manager": "Kevin Fisher",
+      "count": 6,
       "total_seasons": 16
     },
     "least_appearances": {
-      "manager": "Adam Christie",
-      "count": 7,
+      "manager": "Jeff Pilon",
+      "count": 2,
       "total_seasons": 16
+    },
+    "longest_drought": {
+      "manager": "Jeff Pilon",
+      "seasons": 3
     }
   },
   "matchup_data_coverage": {
