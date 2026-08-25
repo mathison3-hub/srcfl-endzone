@@ -1,0 +1,2444 @@
+{
+  "generated_at": "2026-08-25T02:22:59.465911+00:00",
+  "league_id": "298919",
+  "current_season": {
+    "year": 2026,
+    "current_week": 0,
+    "teams": [
+      {
+        "manager": "Dallas Sessions",
+        "team_name": "Bonnie Blue 42",
+        "team_id": 1,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Minder",
+        "previous_rank": 1
+      },
+      {
+        "manager": "Adam Christie ",
+        "team_name": "Big Jets Energy",
+        "team_id": 2,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Baughfense",
+        "previous_rank": 2
+      },
+      {
+        "manager": "cody callahan",
+        "team_name": "Driven' D'brickashawe'd",
+        "team_id": 3,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Baughfense",
+        "previous_rank": 3
+      },
+      {
+        "manager": "Marty Ahern",
+        "team_name": "Out With Ahernia",
+        "team_id": 4,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Baughfense",
+        "previous_rank": 4
+      },
+      {
+        "manager": "Nick Cicchetti",
+        "team_name": "Ladies and Edelman",
+        "team_id": 5,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Baughfense",
+        "previous_rank": 5
+      },
+      {
+        "manager": "Ethan Furtek",
+        "team_name": "Ball Too Well",
+        "team_id": 6,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Minder",
+        "previous_rank": 6
+      },
+      {
+        "manager": "Chris Blentzas",
+        "team_name": "LaPorta Potties",
+        "team_id": 7,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Baughfense",
+        "previous_rank": 7
+      },
+      {
+        "manager": "Kevin Fisher",
+        "team_name": "My Name Is Dak",
+        "team_id": 8,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Minder",
+        "previous_rank": 8
+      },
+      {
+        "manager": "Eric Kardesh",
+        "team_name": "Wings At The Wheel",
+        "team_id": 9,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Minder",
+        "previous_rank": 9
+      },
+      {
+        "manager": "Greg Baudo",
+        "team_name": "Butt  Dart King",
+        "team_id": 10,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Minder",
+        "previous_rank": 10
+      },
+      {
+        "manager": "Jeff Pilon",
+        "team_name": "Dirty  Birds",
+        "team_id": 11,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Baughfense",
+        "previous_rank": 11
+      },
+      {
+        "manager": "Chris Mathison",
+        "team_name": "Mathisunday Funday",
+        "team_id": 12,
+        "wins": 0,
+        "losses": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "standing": 0,
+        "division": "Minder",
+        "previous_rank": 12
+      }
+    ]
+  },
+  "weekly_awards": null,
+  "historical_seasons": [
+    {
+      "year": 2010,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Grenade Free America",
+          "team_id": 1,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1470.0,
+          "points_against": 1457.0,
+          "standing": 11,
+          "division": "USA"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Adam Cromartie",
+          "team_id": 2,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1462.0,
+          "points_against": 1439.0,
+          "standing": 9,
+          "division": "ASU"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1704.0,
+          "points_against": 1442.0,
+          "standing": 3,
+          "division": "ASU"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "ESU Timberwolves",
+          "team_id": 4,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1374.0,
+          "points_against": 1328.0,
+          "standing": 5,
+          "division": "USA"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Poopie Donuts",
+          "team_id": 5,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1500.0,
+          "points_against": 1364.0,
+          "standing": 6,
+          "division": "USA"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Scratch Ticket Dust",
+          "team_id": 6,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1611.0,
+          "points_against": 1453.0,
+          "standing": 2,
+          "division": "USA"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "2 Mannings 1 Cup",
+          "team_id": 7,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1404.0,
+          "points_against": 1349.0,
+          "standing": 8,
+          "division": "USA"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Team Fisher",
+          "team_id": 8,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1303.0,
+          "points_against": 1518.0,
+          "standing": 7,
+          "division": "ASU"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Team Kardesh",
+          "team_id": 9,
+          "wins": 3,
+          "losses": 10,
+          "points_for": 1131.0,
+          "points_against": 1512.0,
+          "standing": 12,
+          "division": "ASU"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Chicken Eddie",
+          "team_id": 10,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1342.0,
+          "points_against": 1304.0,
+          "standing": 1,
+          "division": "ASU"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Team Pilon",
+          "team_id": 11,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1420.0,
+          "points_against": 1503.0,
+          "standing": 10,
+          "division": "ASU"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "The Chrisuation",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1390.0,
+          "points_against": 1442.0,
+          "standing": 4,
+          "division": "USA"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Rhymes with Punt",
+          "team_id": 1,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1646.0,
+          "points_against": 1537.0,
+          "standing": 3,
+          "division": "USA"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Burressted Development",
+          "team_id": 2,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1533.0,
+          "points_against": 1584.0,
+          "standing": 6,
+          "division": "ASU"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1568.0,
+          "points_against": 1507.0,
+          "standing": 10,
+          "division": "ASU"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1350.0,
+          "points_against": 1529.0,
+          "standing": 8,
+          "division": "USA"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Baggy Magnums",
+          "team_id": 5,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1490.0,
+          "points_against": 1667.0,
+          "standing": 12,
+          "division": "USA"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "We Must Fur-Tek This House",
+          "team_id": 6,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1687.0,
+          "points_against": 1519.0,
+          "standing": 4,
+          "division": "USA"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "2 Mannings 1 Cup",
+          "team_id": 7,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1655.0,
+          "points_against": 1404.0,
+          "standing": 2,
+          "division": "USA"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Team Fisher",
+          "team_id": 8,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1546.0,
+          "points_against": 1524.0,
+          "standing": 7,
+          "division": "ASU"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Loveable Losers",
+          "team_id": 9,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1270.0,
+          "points_against": 1610.0,
+          "standing": 9,
+          "division": "ASU"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Dunkin' BauDonuts",
+          "team_id": 10,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1545.0,
+          "points_against": 1503.0,
+          "standing": 5,
+          "division": "ASU"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "End Zone Pilons",
+          "team_id": 11,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1756.0,
+          "points_against": 1538.0,
+          "standing": 1,
+          "division": "ASU"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1401.0,
+          "points_against": 1525.0,
+          "standing": 11,
+          "division": "USA"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Russell Mania",
+          "team_id": 1,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1716.0,
+          "points_against": 1639.0,
+          "standing": 2,
+          "division": "USA"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "anoREXic Ryan",
+          "team_id": 2,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1790.0,
+          "points_against": 1699.0,
+          "standing": 5,
+          "division": "ASU"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1632.0,
+          "points_against": 1370.0,
+          "standing": 1,
+          "division": "ASU"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1487.0,
+          "points_against": 1409.0,
+          "standing": 8,
+          "division": "USA"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Vinegar Strokes",
+          "team_id": 5,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1377.0,
+          "points_against": 1577.0,
+          "standing": 10,
+          "division": "USA"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Blacks N Decker",
+          "team_id": 6,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1444.0,
+          "points_against": 1704.0,
+          "standing": 9,
+          "division": "USA"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "2 Mannings 1 Cup",
+          "team_id": 7,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1705.0,
+          "points_against": 1477.0,
+          "standing": 3,
+          "division": "USA"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Team Fisher",
+          "team_id": 8,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1585.0,
+          "points_against": 1641.0,
+          "standing": 7,
+          "division": "ASU"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "AZ Haterade",
+          "team_id": 9,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1347.0,
+          "points_against": 1559.0,
+          "standing": 11,
+          "division": "ASU"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Dunkin' BauDonuts",
+          "team_id": 10,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1332.0,
+          "points_against": 1572.0,
+          "standing": 12,
+          "division": "ASU"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "End Zone Pilons",
+          "team_id": 11,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1660.0,
+          "points_against": 1469.0,
+          "standing": 4,
+          "division": "ASU"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1650.0,
+          "points_against": 1609.0,
+          "standing": 6,
+          "division": "USA"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Pocket Dogs",
+          "team_id": 1,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1681.0,
+          "points_against": 1567.0,
+          "standing": 6,
+          "division": "USA"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Manning to Welker",
+          "team_id": 2,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1665.0,
+          "points_against": 1521.0,
+          "standing": 3,
+          "division": "ASU"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1487.0,
+          "points_against": 1697.0,
+          "standing": 11,
+          "division": "ASU"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1694.0,
+          "points_against": 1478.0,
+          "standing": 5,
+          "division": "USA"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Vinegar Strokes",
+          "team_id": 5,
+          "wins": 9,
+          "losses": 3,
+          "points_for": 1661.0,
+          "points_against": 1425.0,
+          "standing": 1,
+          "division": "USA"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Second Harvest",
+          "team_id": 6,
+          "wins": 4,
+          "losses": 8,
+          "points_for": 1296.0,
+          "points_against": 1474.0,
+          "standing": 8,
+          "division": "USA"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "2 Mannings 1 Cup",
+          "team_id": 7,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1629.0,
+          "points_against": 1523.0,
+          "standing": 12,
+          "division": "USA"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Touchy Feely",
+          "team_id": 8,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1533.0,
+          "points_against": 1599.0,
+          "standing": 9,
+          "division": "ASU"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "AZ Haterade",
+          "team_id": 9,
+          "wins": 3,
+          "losses": 9,
+          "points_for": 1367.0,
+          "points_against": 1640.0,
+          "standing": 7,
+          "division": "ASU"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Dunkin' BauDonuts",
+          "team_id": 10,
+          "wins": 3,
+          "losses": 10,
+          "points_for": 1240.0,
+          "points_against": 1662.0,
+          "standing": 10,
+          "division": "ASU"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "End Zone Pilons",
+          "team_id": 11,
+          "wins": 9,
+          "losses": 3,
+          "points_for": 1736.0,
+          "points_against": 1489.0,
+          "standing": 4,
+          "division": "ASU"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1673.0,
+          "points_against": 1587.0,
+          "standing": 2,
+          "division": "USA"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Pocket Dogs",
+          "team_id": 1,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1541.0,
+          "points_against": 1468.0,
+          "standing": 2,
+          "division": "USA"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Welkers Bookie",
+          "team_id": 2,
+          "wins": 1,
+          "losses": 12,
+          "points_for": 1243.0,
+          "points_against": 1739.0,
+          "standing": 12,
+          "division": "ASU"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1786.0,
+          "points_against": 1623.0,
+          "standing": 5,
+          "division": "ASU"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1634.0,
+          "points_against": 1551.0,
+          "standing": 10,
+          "division": "USA"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1432.0,
+          "points_against": 1554.0,
+          "standing": 7,
+          "division": "USA"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Second Harvest",
+          "team_id": 6,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1655.0,
+          "points_against": 1512.0,
+          "standing": 6,
+          "division": "USA"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1536.0,
+          "points_against": 1627.0,
+          "standing": 11,
+          "division": "USA"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Touchy Feely",
+          "team_id": 8,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1746.0,
+          "points_against": 1540.0,
+          "standing": 4,
+          "division": "ASU"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Deep Dishing",
+          "team_id": 9,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1602.0,
+          "points_against": 1607.0,
+          "standing": 1,
+          "division": "ASU"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Dunkin' BauDonuts",
+          "team_id": 10,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1581.0,
+          "points_against": 1644.0,
+          "standing": 9,
+          "division": "ASU"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "End Zone Pilons",
+          "team_id": 11,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1549.0,
+          "points_against": 1516.0,
+          "standing": 3,
+          "division": "ASU"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1635.0,
+          "points_against": 1559.0,
+          "standing": 8,
+          "division": "USA"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "2nd Half Garbage Time",
+          "team_id": 1,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1645.0,
+          "points_against": 1622.0,
+          "standing": 7,
+          "division": "Dads"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Super Bowles",
+          "team_id": 2,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1637.0,
+          "points_against": 1624.0,
+          "standing": 4,
+          "division": "No Dads"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1565.0,
+          "points_against": 1553.0,
+          "standing": 2,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1703.0,
+          "points_against": 1448.0,
+          "standing": 1,
+          "division": "Dads"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1461.0,
+          "points_against": 1612.0,
+          "standing": 10,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Dri-Fit Life",
+          "team_id": 6,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1525.0,
+          "points_against": 1482.0,
+          "standing": 6,
+          "division": "Dads"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1372.0,
+          "points_against": 1468.0,
+          "standing": 8,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "PalmersOnly .com",
+          "team_id": 8,
+          "wins": 10,
+          "losses": 3,
+          "points_for": 1869.0,
+          "points_against": 1527.0,
+          "standing": 3,
+          "division": "Dads"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1457.0,
+          "points_against": 1531.0,
+          "standing": 9,
+          "division": "Dads"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1373.0,
+          "points_against": 1474.0,
+          "standing": 12,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "End Zone Pilons",
+          "team_id": 11,
+          "wins": 3,
+          "losses": 10,
+          "points_for": 1388.0,
+          "points_against": 1653.0,
+          "standing": 11,
+          "division": "Dads"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1493.0,
+          "points_against": 1494.0,
+          "standing": 5,
+          "division": "No Dads"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Russell my  Jimmies",
+          "team_id": 1,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1564.0,
+          "points_against": 1583.0,
+          "standing": 8,
+          "division": "Dads"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Super Bowles",
+          "team_id": 2,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1483.0,
+          "points_against": 1483.0,
+          "standing": 2,
+          "division": "No Dads"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 4,
+          "losses": 8,
+          "points_for": 1408.0,
+          "points_against": 1528.0,
+          "standing": 11,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1666.0,
+          "points_against": 1598.0,
+          "standing": 4,
+          "division": "Dads"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 7,
+          "losses": 5,
+          "points_for": 1676.0,
+          "points_against": 1591.0,
+          "standing": 1,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Dedicated to Leisure",
+          "team_id": 6,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1504.0,
+          "points_against": 1467.0,
+          "standing": 6,
+          "division": "Dads"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1669.0,
+          "points_against": 1541.0,
+          "standing": 3,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "PalmersOnly .com",
+          "team_id": 8,
+          "wins": 6,
+          "losses": 6,
+          "points_for": 1572.0,
+          "points_against": 1480.0,
+          "standing": 5,
+          "division": "Dads"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 5,
+          "losses": 7,
+          "points_for": 1402.0,
+          "points_against": 1484.0,
+          "standing": 7,
+          "division": "Dads"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1544.0,
+          "points_against": 1573.0,
+          "standing": 10,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Jamaal About  That Bass",
+          "team_id": 11,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1613.0,
+          "points_against": 1653.0,
+          "standing": 9,
+          "division": "Dads"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1382.0,
+          "points_against": 1502.0,
+          "standing": 12,
+          "division": "No Dads"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Russell my  Jimmies",
+          "team_id": 1,
+          "wins": 12,
+          "losses": 1,
+          "points_for": 1779.0,
+          "points_against": 1365.0,
+          "standing": 1,
+          "division": "Dads"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Super Bowles",
+          "team_id": 2,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1435.0,
+          "points_against": 1507.0,
+          "standing": 6,
+          "division": "No Dads"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1535.0,
+          "points_against": 1432.0,
+          "standing": 4,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1475.0,
+          "points_against": 1275.0,
+          "standing": 2,
+          "division": "Dads"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1353.0,
+          "points_against": 1478.0,
+          "standing": 9,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "He Hate Me",
+          "team_id": 6,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1323.0,
+          "points_against": 1609.0,
+          "standing": 10,
+          "division": "Dads"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1536.0,
+          "points_against": 1395.0,
+          "standing": 7,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "PalmersOnly .com",
+          "team_id": 8,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1548.0,
+          "points_against": 1506.0,
+          "standing": 5,
+          "division": "Dads"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 6,
+          "losses": 6,
+          "points_for": 1431.0,
+          "points_against": 1471.0,
+          "standing": 3,
+          "division": "Dads"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1515.0,
+          "points_against": 1597.0,
+          "standing": 8,
+          "division": "No Dads"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "My Ball Zach Ertz",
+          "team_id": 11,
+          "wins": 4,
+          "losses": 8,
+          "points_for": 1404.0,
+          "points_against": 1492.0,
+          "standing": 11,
+          "division": "Dads"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1293.0,
+          "points_against": 1500.0,
+          "standing": 12,
+          "division": "No Dads"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Chrundle the Great",
+          "team_id": 1,
+          "wins": 3,
+          "losses": 10,
+          "points_for": 1544.3,
+          "points_against": 1715.3,
+          "standing": 11,
+          "division": "West"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Super Bowles",
+          "team_id": 2,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1436.4,
+          "points_against": 1711.2,
+          "standing": 7,
+          "division": "East"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1814.4,
+          "points_against": 1706.2,
+          "standing": 6,
+          "division": "South"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 11,
+          "losses": 2,
+          "points_for": 1846.9,
+          "points_against": 1700.4,
+          "standing": 1,
+          "division": "Central"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 11,
+          "losses": 2,
+          "points_for": 1770.3,
+          "points_against": 1547.7,
+          "standing": 2,
+          "division": "West"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Wax Fantastic",
+          "team_id": 6,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1676.9,
+          "points_against": 1580.7,
+          "standing": 4,
+          "division": "Central"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1733.1,
+          "points_against": 1620.7,
+          "standing": 3,
+          "division": "West"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Budda Has Rosen",
+          "team_id": 8,
+          "wins": 3,
+          "losses": 10,
+          "points_for": 1734.7,
+          "points_against": 1845.8,
+          "standing": 12,
+          "division": "South"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1623.0,
+          "points_against": 1708.0,
+          "standing": 10,
+          "division": "Central"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1512.3,
+          "points_against": 1611.9,
+          "standing": 8,
+          "division": "East"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1534.1,
+          "points_against": 1687.7,
+          "standing": 9,
+          "division": "South"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1915.9,
+          "points_against": 1706.9,
+          "standing": 5,
+          "division": "East"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Team Rum Ham",
+          "team_id": 1,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1780.0,
+          "points_against": 1631.0,
+          "standing": 2,
+          "division": "West"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Sam\u2019s Club",
+          "team_id": 2,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1512.8,
+          "points_against": 1606.7,
+          "standing": 7,
+          "division": "East"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1495.9,
+          "points_against": 1447.2,
+          "standing": 6,
+          "division": "South"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1670.4,
+          "points_against": 1668.6,
+          "standing": 10,
+          "division": "Central"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1415.8,
+          "points_against": 1509.0,
+          "standing": 8,
+          "division": "West"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Thailand Butt Impacts",
+          "team_id": 6,
+          "wins": 11,
+          "losses": 2,
+          "points_for": 2018.7,
+          "points_against": 1553.0,
+          "standing": 1,
+          "division": "Central"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1469.0,
+          "points_against": 1738.5,
+          "standing": 9,
+          "division": "West"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Budda Has Rosen",
+          "team_id": 8,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1527.6,
+          "points_against": 1489.6,
+          "standing": 4,
+          "division": "South"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1672.4,
+          "points_against": 1635.3,
+          "standing": 12,
+          "division": "Central"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 3,
+          "losses": 10,
+          "points_for": 1412.0,
+          "points_against": 1706.5,
+          "standing": 11,
+          "division": "East"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1628.2,
+          "points_against": 1464.7,
+          "standing": 3,
+          "division": "South"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1471.1,
+          "points_against": 1624.0,
+          "standing": 5,
+          "division": "East"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Wuhan Clan",
+          "team_id": 1,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1698.6,
+          "points_against": 1651.9,
+          "standing": 7,
+          "division": "Minder"
+        },
+        {
+          "manager": "Adam Christie",
+          "team_name": "Sam\u2019s Club",
+          "team_id": 2,
+          "wins": 4,
+          "losses": 9,
+          "points_for": 1470.8,
+          "points_against": 1616.8,
+          "standing": 9,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1695.2,
+          "points_against": 1705.8,
+          "standing": 4,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 10,
+          "losses": 3,
+          "points_for": 1697.3,
+          "points_against": 1432.3,
+          "standing": 1,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1596.8,
+          "points_against": 1519.3,
+          "standing": 3,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "GOLD PRO MATRIX MARTY",
+          "team_id": 6,
+          "wins": 7,
+          "losses": 6,
+          "points_for": 1573.5,
+          "points_against": 1647.2,
+          "standing": 8,
+          "division": "Minder"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 5,
+          "losses": 8,
+          "points_for": 1580.1,
+          "points_against": 1547.3,
+          "standing": 10,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Budda Has Rosen",
+          "team_id": 8,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1697.3,
+          "points_against": 1586.6,
+          "standing": 5,
+          "division": "Minder"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 2,
+          "losses": 11,
+          "points_for": 1378.3,
+          "points_against": 1736.9,
+          "standing": 12,
+          "division": "Minder"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 8,
+          "losses": 5,
+          "points_for": 1693.2,
+          "points_against": 1555.9,
+          "standing": 6,
+          "division": "Minder"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 2,
+          "losses": 11,
+          "points_for": 1480.8,
+          "points_against": 1733.1,
+          "standing": 11,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 9,
+          "losses": 4,
+          "points_for": 1701.5,
+          "points_against": 1530.5,
+          "standing": 2,
+          "division": "Minder"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Limo Rats",
+          "team_id": 1,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1791.7,
+          "points_against": 1807.2,
+          "standing": 7,
+          "division": "Minder"
+        },
+        {
+          "manager": "Adam Christie ",
+          "team_name": "Team Wolfgang ",
+          "team_id": 2,
+          "wins": 5,
+          "losses": 9,
+          "points_for": 1645.4,
+          "points_against": 1700.1,
+          "standing": 11,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1966.1,
+          "points_against": 1757.2,
+          "standing": 3,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1774.6,
+          "points_against": 1722.5,
+          "standing": 5,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 6,
+          "losses": 7,
+          "points_for": 1633.6,
+          "points_against": 1727.6,
+          "standing": 9,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "JUMP HUMPING",
+          "team_id": 6,
+          "wins": 4,
+          "losses": 10,
+          "points_for": 1423.1,
+          "points_against": 1664.0,
+          "standing": 10,
+          "division": "Minder"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 9,
+          "losses": 5,
+          "points_for": 1764.9,
+          "points_against": 1710.3,
+          "standing": 2,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Copper Kush",
+          "team_id": 8,
+          "wins": 10,
+          "losses": 4,
+          "points_for": 1642.9,
+          "points_against": 1518.4,
+          "standing": 6,
+          "division": "Minder"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1660.1,
+          "points_against": 1639.4,
+          "standing": 4,
+          "division": "Minder"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 10,
+          "losses": 3,
+          "points_for": 1964.3,
+          "points_against": 1772.3,
+          "standing": 1,
+          "division": "Minder"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 4,
+          "losses": 10,
+          "points_for": 1540.0,
+          "points_against": 1761.6,
+          "standing": 12,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1756.8,
+          "points_against": 1782.9,
+          "standing": 8,
+          "division": "Minder"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Serenity Now!",
+          "team_id": 1,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1687.6,
+          "points_against": 1710.9,
+          "standing": 7,
+          "division": "Minder"
+        },
+        {
+          "manager": "Adam Christie ",
+          "team_name": "Team Wolfgang ",
+          "team_id": 2,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1546.7,
+          "points_against": 1587.2,
+          "standing": 4,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 5,
+          "losses": 9,
+          "points_for": 1617.8,
+          "points_against": 1643.4,
+          "standing": 8,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 10,
+          "losses": 4,
+          "points_for": 1737.5,
+          "points_against": 1592.0,
+          "standing": 2,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1770.8,
+          "points_against": 1540.8,
+          "standing": 5,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Dunkin' Desert",
+          "team_id": 6,
+          "wins": 5,
+          "losses": 9,
+          "points_for": 1668.7,
+          "points_against": 1817.8,
+          "standing": 9,
+          "division": "Minder"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 9,
+          "losses": 5,
+          "points_for": 1854.8,
+          "points_against": 1657.7,
+          "standing": 1,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Copper Kush",
+          "team_id": 8,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1629.5,
+          "points_against": 1712.0,
+          "standing": 3,
+          "division": "Minder"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 4,
+          "losses": 10,
+          "points_for": 1509.7,
+          "points_against": 1665.4,
+          "standing": 12,
+          "division": "Minder"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1632.3,
+          "points_against": 1834.4,
+          "standing": 10,
+          "division": "Minder"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1689.2,
+          "points_against": 1626.6,
+          "standing": 6,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1702.4,
+          "points_against": 1658.9,
+          "standing": 11,
+          "division": "Minder"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Serenity Now!",
+          "team_id": 1,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1690.6,
+          "points_against": 1693.7,
+          "standing": 5,
+          "division": "Minder"
+        },
+        {
+          "manager": "Adam Christie ",
+          "team_name": "Big Jets Energy",
+          "team_id": 2,
+          "wins": 4,
+          "losses": 10,
+          "points_for": 1590.0,
+          "points_against": 1699.1,
+          "standing": 12,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1627.9,
+          "points_against": 1686.0,
+          "standing": 8,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1670.4,
+          "points_against": 1771.9,
+          "standing": 2,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1792.6,
+          "points_against": 1690.4,
+          "standing": 11,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Dunkin' Desert",
+          "team_id": 6,
+          "wins": 9,
+          "losses": 5,
+          "points_for": 1943.3,
+          "points_against": 1666.0,
+          "standing": 1,
+          "division": "Minder"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "SD Shit Storm",
+          "team_id": 7,
+          "wins": 9,
+          "losses": 5,
+          "points_for": 1894.7,
+          "points_against": 1637.3,
+          "standing": 3,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Copper Kush",
+          "team_id": 8,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1537.0,
+          "points_against": 1610.7,
+          "standing": 9,
+          "division": "Minder"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1652.9,
+          "points_against": 1746.1,
+          "standing": 6,
+          "division": "Minder"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 9,
+          "losses": 5,
+          "points_for": 1713.3,
+          "points_against": 1685.2,
+          "standing": 4,
+          "division": "Minder"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1602.3,
+          "points_against": 1612.7,
+          "standing": 10,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1646.4,
+          "points_against": 1862.2,
+          "standing": 7,
+          "division": "Minder"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Exotic 3rd Down Package",
+          "team_id": 1,
+          "wins": 7,
+          "losses": 7,
+          "points_for": 1776.1,
+          "points_against": 1762.7,
+          "standing": 4,
+          "division": "Minder"
+        },
+        {
+          "manager": "Adam Christie ",
+          "team_name": "Big Jets Energy",
+          "team_id": 2,
+          "wins": 10,
+          "losses": 4,
+          "points_for": 1724.4,
+          "points_against": 1510.9,
+          "standing": 3,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1695.7,
+          "points_against": 1718.7,
+          "standing": 10,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1750.6,
+          "points_against": 1659.6,
+          "standing": 6,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 3,
+          "losses": 11,
+          "points_for": 1569.7,
+          "points_against": 1820.6,
+          "standing": 8,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Ball Too Well",
+          "team_id": 6,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1819.4,
+          "points_against": 1660.4,
+          "standing": 1,
+          "division": "Minder"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "LaPorta Potties",
+          "team_id": 7,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1553.6,
+          "points_against": 1848.6,
+          "standing": 11,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "Copper Kush",
+          "team_id": 8,
+          "wins": 10,
+          "losses": 4,
+          "points_for": 1700.7,
+          "points_against": 1579.1,
+          "standing": 5,
+          "division": "Minder"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1669.9,
+          "points_against": 1824.1,
+          "standing": 9,
+          "division": "Minder"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 4,
+          "losses": 10,
+          "points_for": 1462.0,
+          "points_against": 1710.0,
+          "standing": 12,
+          "division": "Minder"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1714.9,
+          "points_against": 1712.8,
+          "standing": 7,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 12,
+          "losses": 2,
+          "points_for": 1836.9,
+          "points_against": 1466.4,
+          "standing": 2,
+          "division": "Minder"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "teams": [
+        {
+          "manager": "Dallas Sessions",
+          "team_name": "Bonnie Blue 42",
+          "team_id": 1,
+          "wins": 8,
+          "losses": 6,
+          "points_for": 1703.3,
+          "points_against": 1552.7,
+          "standing": 3,
+          "division": "Minder"
+        },
+        {
+          "manager": "Adam Christie ",
+          "team_name": "Big Jets Energy",
+          "team_id": 2,
+          "wins": 9,
+          "losses": 5,
+          "points_for": 1782.9,
+          "points_against": 1643.8,
+          "standing": 2,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "cody callahan",
+          "team_name": "Driven' D'brickashawe'd",
+          "team_id": 3,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1744.8,
+          "points_against": 1824.1,
+          "standing": 4,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Marty Ahern",
+          "team_name": "Out With Ahernia",
+          "team_id": 4,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1498.1,
+          "points_against": 1696.3,
+          "standing": 10,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Nick Cicchetti",
+          "team_name": "Ladies and Edelman",
+          "team_id": 5,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1463.0,
+          "points_against": 1664.4,
+          "standing": 7,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Ethan Furtek",
+          "team_name": "Ball Too Well",
+          "team_id": 6,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1695.3,
+          "points_against": 1650.7,
+          "standing": 9,
+          "division": "Minder"
+        },
+        {
+          "manager": "Chris Blentzas",
+          "team_name": "LaPorta Potties",
+          "team_id": 7,
+          "wins": 3,
+          "losses": 11,
+          "points_for": 1540.5,
+          "points_against": 1761.7,
+          "standing": 11,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Kevin Fisher",
+          "team_name": "My Name Is Dak",
+          "team_id": 8,
+          "wins": 10,
+          "losses": 4,
+          "points_for": 1705.2,
+          "points_against": 1545.6,
+          "standing": 5,
+          "division": "Minder"
+        },
+        {
+          "manager": "Eric Kardesh",
+          "team_name": "Wings At The Wheel",
+          "team_id": 9,
+          "wins": 10,
+          "losses": 4,
+          "points_for": 1834.5,
+          "points_against": 1524.3,
+          "standing": 6,
+          "division": "Minder"
+        },
+        {
+          "manager": "Greg Baudo",
+          "team_name": "Butt  Dart King",
+          "team_id": 10,
+          "wins": 6,
+          "losses": 8,
+          "points_for": 1633.1,
+          "points_against": 1706.4,
+          "standing": 8,
+          "division": "Minder"
+        },
+        {
+          "manager": "Jeff Pilon",
+          "team_name": "Dirty  Birds",
+          "team_id": 11,
+          "wins": 2,
+          "losses": 12,
+          "points_for": 1361.1,
+          "points_against": 1778.6,
+          "standing": 12,
+          "division": "Baughfense"
+        },
+        {
+          "manager": "Chris Mathison",
+          "team_name": "Mathisunday Funday",
+          "team_id": 12,
+          "wins": 12,
+          "losses": 2,
+          "points_for": 2053.7,
+          "points_against": 1666.9,
+          "standing": 1,
+          "division": "Minder"
+        }
+      ]
+    }
+  ],
+  "rivalries": [
+    {
+      "manager_a": "Chris Mathison",
+      "manager_b": "cody callahan",
+      "a_wins": 13,
+      "b_wins": 7,
+      "total_games": 20,
+      "last_meeting": {
+        "year": 2025,
+        "winner": "cody callahan",
+        "margin": 0.1
+      }
+    },
+    {
+      "manager_a": "Ethan Furtek",
+      "manager_b": "Marty Ahern",
+      "a_wins": 9,
+      "b_wins": 10,
+      "total_games": 19,
+      "last_meeting": {
+        "year": 2025,
+        "winner": "Ethan Furtek",
+        "margin": 21.6
+      }
+    },
+    {
+      "manager_a": "Kevin Fisher",
+      "manager_b": "Marty Ahern",
+      "a_wins": 12,
+      "b_wins": 6,
+      "total_games": 18,
+      "last_meeting": {
+        "year": 2025,
+        "winner": "Kevin Fisher",
+        "margin": 57.2
+      }
+    },
+    {
+      "manager_a": "Greg Baudo",
+      "manager_b": "Nick Cicchetti",
+      "a_wins": 7,
+      "b_wins": 9,
+      "total_games": 17,
+      "last_meeting": {
+        "year": 2025,
+        "winner": "Nick Cicchetti",
+        "margin": 23.8
+      }
+    },
+    {
+      "manager_a": "Eric Kardesh",
+      "manager_b": "Jeff Pilon",
+      "a_wins": 7,
+      "b_wins": 10,
+      "total_games": 17,
+      "last_meeting": {
+        "year": 2025,
+        "winner": "Eric Kardesh",
+        "margin": 2.3
+      }
+    },
+    {
+      "manager_a": "Kevin Fisher",
+      "manager_b": "cody callahan",
+      "a_wins": 11,
+      "b_wins": 4,
+      "total_games": 15,
+      "last_meeting": {
+        "year": 2025,
+        "winner": "Kevin Fisher",
+        "margin": 45.4
+      }
+    }
+  ],
+  "manager_profiles": null,
+  "historical_bests": {
+    "best_single_week": {
+      "manager": "Greg Baudo",
+      "score": 209.8,
+      "year": 2021,
+      "week": 17
+    },
+    "best_championship_game": {
+      "manager": "Greg Baudo",
+      "score": 209.8,
+      "year": 2021
+    },
+    "best_playoff_game": {
+      "manager": "Greg Baudo",
+      "score": 209.8,
+      "year": 2021,
+      "week": 17
+    }
+  },
+  "comeback_player_of_year": null
+}
