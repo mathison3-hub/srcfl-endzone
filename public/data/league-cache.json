@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:16:18.524832+00:00",
+  "generated_at": "2026-08-25T03:23:47.336572+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -2428,50 +2428,42 @@
     "total_games": 12,
     "games": [
       {
-        "year": 2025,
-        "week": 16,
-        "a_score": 135.6,
-        "b_score": 146.7,
-        "winner": "Chris Mathison",
-        "is_playoff": true
-      },
-      {
-        "year": 2025,
-        "week": 4,
-        "a_score": 137.7,
-        "b_score": 144.4,
-        "winner": "Chris Mathison",
-        "is_playoff": false
-      },
-      {
-        "year": 2024,
-        "week": 16,
-        "a_score": 108.6,
-        "b_score": 186.7,
-        "winner": "Chris Mathison",
-        "is_playoff": true
-      },
-      {
-        "year": 2024,
-        "week": 4,
-        "a_score": 133.1,
-        "b_score": 117.2,
+        "year": 2019,
+        "week": 7,
+        "a_score": 141.1,
+        "b_score": 106.7,
         "winner": "Dallas Sessions",
         "is_playoff": false
       },
       {
-        "year": 2023,
-        "week": 4,
-        "a_score": 174.6,
-        "b_score": 112.2,
-        "winner": "Dallas Sessions",
+        "year": 2020,
+        "week": 7,
+        "a_score": 137.8,
+        "b_score": 183.2,
+        "winner": "Chris Mathison",
         "is_playoff": false
       },
       {
-        "year": 2022,
-        "week": 15,
-        "a_score": 137.9,
-        "b_score": 124.5,
+        "year": 2021,
+        "week": 4,
+        "a_score": 138.3,
+        "b_score": 162.6,
+        "winner": "Chris Mathison",
+        "is_playoff": false
+      },
+      {
+        "year": 2021,
+        "week": 17,
+        "a_score": 111.7,
+        "b_score": 96.2,
+        "winner": "Dallas Sessions",
+        "is_playoff": true
+      },
+      {
+        "year": 2021,
+        "week": 18,
+        "a_score": 111.7,
+        "b_score": 96.2,
         "winner": "Dallas Sessions",
         "is_playoff": true
       },
@@ -2484,44 +2476,52 @@
         "is_playoff": false
       },
       {
-        "year": 2021,
-        "week": 18,
-        "a_score": 111.7,
-        "b_score": 96.2,
+        "year": 2022,
+        "week": 15,
+        "a_score": 137.9,
+        "b_score": 124.5,
         "winner": "Dallas Sessions",
         "is_playoff": true
       },
       {
-        "year": 2021,
-        "week": 17,
-        "a_score": 111.7,
-        "b_score": 96.2,
-        "winner": "Dallas Sessions",
-        "is_playoff": true
-      },
-      {
-        "year": 2021,
+        "year": 2023,
         "week": 4,
-        "a_score": 138.3,
-        "b_score": 162.6,
-        "winner": "Chris Mathison",
-        "is_playoff": false
-      },
-      {
-        "year": 2020,
-        "week": 7,
-        "a_score": 137.8,
-        "b_score": 183.2,
-        "winner": "Chris Mathison",
-        "is_playoff": false
-      },
-      {
-        "year": 2019,
-        "week": 7,
-        "a_score": 141.1,
-        "b_score": 106.7,
+        "a_score": 174.6,
+        "b_score": 112.2,
         "winner": "Dallas Sessions",
         "is_playoff": false
+      },
+      {
+        "year": 2024,
+        "week": 4,
+        "a_score": 133.1,
+        "b_score": 117.2,
+        "winner": "Dallas Sessions",
+        "is_playoff": false
+      },
+      {
+        "year": 2024,
+        "week": 16,
+        "a_score": 108.6,
+        "b_score": 186.7,
+        "winner": "Chris Mathison",
+        "is_playoff": true
+      },
+      {
+        "year": 2025,
+        "week": 4,
+        "a_score": 137.7,
+        "b_score": 144.4,
+        "winner": "Chris Mathison",
+        "is_playoff": false
+      },
+      {
+        "year": 2025,
+        "week": 16,
+        "a_score": 135.6,
+        "b_score": 146.7,
+        "winner": "Chris Mathison",
+        "is_playoff": true
       }
     ]
   },
@@ -2548,7 +2548,12 @@
   "playoff_stats": {
     "total_seasons": 16,
     "most_appearances": {
-      "manager": "Adam Christie",
+      "manager": "Jeff Pilon",
+      "count": 7,
+      "total_seasons": 16
+    },
+    "least_appearances": {
+      "manager": "Jeff Pilon",
       "count": 7,
       "total_seasons": 16
     }
