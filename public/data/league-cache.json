@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-28T21:58:40.939813+00:00",
+  "generated_at": "2026-08-31T04:30:02.060820+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
-    "current_week": 0,
+    "current_week": 1,
     "teams": [
       {
         "manager": "Dallas Sessions",
@@ -13,7 +13,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 12,
         "division": "Minder",
         "previous_rank": 1
       },
@@ -25,7 +25,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 11,
         "division": "Baughfense",
         "previous_rank": 2
       },
@@ -37,7 +37,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 10,
         "division": "Baughfense",
         "previous_rank": 3
       },
@@ -49,7 +49,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 9,
         "division": "Baughfense",
         "previous_rank": 4
       },
@@ -61,7 +61,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 8,
         "division": "Baughfense",
         "previous_rank": 5
       },
@@ -73,7 +73,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 7,
         "division": "Minder",
         "previous_rank": 6
       },
@@ -85,7 +85,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 6,
         "division": "Baughfense",
         "previous_rank": 7
       },
@@ -97,7 +97,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 5,
         "division": "Minder",
         "previous_rank": 8
       },
@@ -109,7 +109,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 4,
         "division": "Minder",
         "previous_rank": 9
       },
@@ -121,7 +121,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 3,
         "division": "Minder",
         "previous_rank": 10
       },
@@ -133,7 +133,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 2,
         "division": "Baughfense",
         "previous_rank": 11
       },
@@ -145,7 +145,7 @@
         "losses": 0,
         "points_for": 0.0,
         "points_against": 0.0,
-        "standing": 0,
+        "standing": 1,
         "division": "Minder",
         "previous_rank": 12
       }
@@ -2569,12 +2569,12 @@
       "total_seasons": 16
     },
     "least_appearances": {
-      "manager": "Greg Baudo",
+      "manager": "Eric Kardesh",
       "count": 5,
       "total_seasons": 16
     },
     "longest_drought": {
-      "manager": "Nick Cicchetti",
+      "manager": "Jeff Pilon",
       "seasons": 3
     }
   },
