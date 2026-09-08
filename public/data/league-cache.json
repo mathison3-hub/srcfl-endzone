@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:09:34.571587+00:00",
+  "generated_at": "2026-09-08T09:09:17.915868+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -2546,7 +2546,14 @@
       {
         "manager": "Dallas Sessions",
         "trades": 0,
-        "waiver_adds": 2,
+        "waiver_adds": 3,
+        "tag": "The Steady Hand",
+        "description": "A measured amount of activity \u2014 no extremes either way."
+      },
+      {
+        "manager": "Chris Mathison",
+        "trades": 0,
+        "waiver_adds": 1,
         "tag": "The Ghost",
         "description": "Sets a lineup and rarely touches the roster otherwise."
       },
@@ -2592,7 +2599,7 @@
       "total_seasons": 16
     },
     "longest_drought": {
-      "manager": "Nick Cicchetti",
+      "manager": "Jeff Pilon",
       "seasons": 3
     }
   },
