@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:09:17.915868+00:00",
+  "generated_at": "2026-09-11T09:09:15.694240+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -151,7 +151,64 @@
       }
     ]
   },
-  "weekly_awards": null,
+  "weekly_awards": {
+    "week": 1,
+    "highest_score": {
+      "manager": "Dallas Sessions",
+      "team_name": "Bonnie Blue 42",
+      "score": 29.5,
+      "opponent_score": 27.2,
+      "won": true
+    },
+    "lowest_score": {
+      "manager": "Marty Ahern",
+      "team_name": "Out With Ahernia",
+      "score": 0,
+      "opponent_score": 3.2,
+      "won": false
+    },
+    "closest_game_margin": 0.1,
+    "closest_game_team": {
+      "manager": "Kevin Fisher",
+      "team_name": "My Name Is Dak",
+      "score": 21.0,
+      "opponent_score": 21.1,
+      "won": false
+    },
+    "biggest_blowout_margin": 12.0,
+    "biggest_blowout_team": {
+      "manager": "Ethan Furtek",
+      "team_name": "Ball Too Well",
+      "score": 12.4,
+      "opponent_score": 24.42,
+      "won": false
+    },
+    "highest_score_in_a_loss": {
+      "manager": "Eric Kardesh",
+      "team_name": "Wings At The Wheel",
+      "score": 27.2,
+      "opponent_score": 29.5,
+      "won": false
+    },
+    "lowest_score_in_a_win": {
+      "manager": "Adam Christie",
+      "team_name": "Grounded since 69'",
+      "score": 3.2,
+      "opponent_score": 0,
+      "won": true
+    },
+    "best_single_player": {
+      "manager": "Eric Kardesh",
+      "team_name": "Wings At The Wheel",
+      "player_name": "Jaxon Smith-Njigba",
+      "points": 27.2
+    },
+    "best_bench": {
+      "manager": "Chris Blentzas",
+      "team_name": "LaPorta Potties",
+      "points": 27.1
+    }
+  },
   "historical_seasons": [
     {
       "year": 2010,
@@ -2546,7 +2603,7 @@
       {
         "manager": "Dallas Sessions",
         "trades": 0,
-        "waiver_adds": 3,
+        "waiver_adds": 4,
         "tag": "The Steady Hand",
         "description": "A measured amount of activity \u2014 no extremes either way."
       },
@@ -2594,7 +2651,7 @@
       "total_seasons": 16
     },
     "least_appearances": {
-      "manager": "Eric Kardesh",
+      "manager": "Greg Baudo",
       "count": 5,
       "total_seasons": 16
     },
@@ -2611,7 +2668,8 @@
       2022,
       2023,
       2024,
-      2025
+      2025,
+      2026
     ],
     "years_standings_only_no_matchups": [
       2010,
@@ -2751,11 +2809,11 @@
   "streaks": {
     "active_win_streak": {
       "manager": "Chris Mathison",
-      "length": 3
+      "length": 4
     },
     "active_loss_streak": {
-      "manager": "Jeff Pilon",
-      "length": 8
+      "manager": "Eric Kardesh",
+      "length": 6
     },
     "alltime_win_streak": {
       "manager": "Dallas Sessions",
@@ -2784,51 +2842,51 @@
   "elo_ratings": [
     {
       "manager": "Chris Mathison",
-      "rating": 1700
+      "rating": 1709
     },
     {
       "manager": "Kevin Fisher",
-      "rating": 1645
+      "rating": 1620
     },
     {
       "manager": "Adam Christie",
-      "rating": 1557
-    },
-    {
-      "manager": "Ethan Furtek",
-      "rating": 1550
+      "rating": 1569
     },
     {
       "manager": "Dallas Sessions",
-      "rating": 1531
+      "rating": 1545
+    },
+    {
+      "manager": "Ethan Furtek",
+      "rating": 1540
     },
     {
       "manager": "Eric Kardesh",
-      "rating": 1491
+      "rating": 1477
     },
     {
       "manager": "Nick Cicchetti",
-      "rating": 1464
+      "rating": 1446
     },
     {
       "manager": "Marty Ahern",
-      "rating": 1457
-    },
-    {
-      "manager": "Chris Blentzas",
-      "rating": 1443
+      "rating": 1445
     },
     {
       "manager": "cody callahan",
-      "rating": 1427
+      "rating": 1445
     },
     {
       "manager": "Greg Baudo",
-      "rating": 1406
+      "rating": 1432
+    },
+    {
+      "manager": "Chris Blentzas",
+      "rating": 1422
     },
     {
       "manager": "Jeff Pilon",
-      "rating": 1328
+      "rating": 1349
     }
   ]
 }
