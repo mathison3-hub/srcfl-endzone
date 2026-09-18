@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:10:54.719945+00:00",
+  "generated_at": "2026-09-18T09:09:35.635925+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -15,7 +15,7 @@
         "points_against": 131.5,
         "standing": 11,
         "division": "Minder",
-        "previous_rank": 1
+        "previous_rank": 11
       },
       {
         "manager": "Adam Christie",
@@ -27,7 +27,7 @@
         "points_against": 129.5,
         "standing": 12,
         "division": "Baughfense",
-        "previous_rank": 2
+        "previous_rank": 12
       },
       {
         "manager": "cody callahan",
@@ -39,7 +39,7 @@
         "points_against": 143.8,
         "standing": 10,
         "division": "Baughfense",
-        "previous_rank": 3
+        "previous_rank": 10
       },
       {
         "manager": "Marty Ahern",
@@ -51,7 +51,7 @@
         "points_against": 101.1,
         "standing": 5,
         "division": "Baughfense",
-        "previous_rank": 4
+        "previous_rank": 5
       },
       {
         "manager": "Nick Cicchetti",
@@ -63,7 +63,7 @@
         "points_against": 116.7,
         "standing": 2,
         "division": "Baughfense",
-        "previous_rank": 5
+        "previous_rank": 2
       },
       {
         "manager": "Ethan Furtek",
@@ -75,7 +75,7 @@
         "points_against": 152.7,
         "standing": 1,
         "division": "Minder",
-        "previous_rank": 6
+        "previous_rank": 1
       },
       {
         "manager": "Chris Blentzas",
@@ -87,11 +87,11 @@
         "points_against": 140.1,
         "standing": 8,
         "division": "Baughfense",
-        "previous_rank": 7
+        "previous_rank": 8
       },
       {
         "manager": "Kevin Fisher",
-        "team_name": "My Name Is Dak",
+        "team_name": "My Name Is Matt",
         "team_id": 8,
         "wins": 1,
         "losses": 0,
@@ -99,7 +99,7 @@
         "points_against": 118.3,
         "standing": 6,
         "division": "Minder",
-        "previous_rank": 8
+        "previous_rank": 6
       },
       {
         "manager": "Eric Kardesh",
@@ -111,7 +111,7 @@
         "points_against": 101.5,
         "standing": 4,
         "division": "Minder",
-        "previous_rank": 9
+        "previous_rank": 4
       },
       {
         "manager": "Greg Baudo",
@@ -123,7 +123,7 @@
         "points_against": 125.7,
         "standing": 9,
         "division": "Minder",
-        "previous_rank": 10
+        "previous_rank": 9
       },
       {
         "manager": "Jeff Pilon",
@@ -135,7 +135,7 @@
         "points_against": 121.0,
         "standing": 3,
         "division": "Baughfense",
-        "previous_rank": 11
+        "previous_rank": 3
       },
       {
         "manager": "Chris Mathison",
@@ -147,66 +147,72 @@
         "points_against": 167.7,
         "standing": 7,
         "division": "Minder",
-        "previous_rank": 12
+        "previous_rank": 7
       }
     ]
   },
   "weekly_awards": {
-    "week": 1,
+    "week": 2,
     "highest_score": {
-      "manager": "Ethan Furtek",
-      "team_name": "Ball Too Well",
-      "score": 167.66,
-      "opponent_score": 152.72,
+      "manager": "Chris Blentzas",
+      "team_name": "LaPorta Potties",
+      "score": 46.82,
+      "opponent_score": 21.9,
       "won": true
     },
     "lowest_score": {
-      "manager": "Adam Christie",
-      "team_name": "Grounded since 69'",
-      "score": 101.12,
-      "opponent_score": 129.46,
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "score": 0,
+      "opponent_score": 0,
       "won": false
     },
-    "closest_game_margin": 7.4,
+    "closest_game_margin": 0,
     "closest_game_team": {
-      "manager": "Kevin Fisher",
-      "team_name": "My Name Is Dak",
-      "score": 125.7,
-      "opponent_score": 118.3,
-      "won": true
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "score": 0,
+      "opponent_score": 0,
+      "won": false
     },
-    "biggest_blowout_margin": 30.0,
+    "biggest_blowout_margin": 29.2,
     "biggest_blowout_team": {
-      "manager": "Dallas Sessions",
-      "team_name": "Bonnie Blue 42",
-      "score": 101.46,
-      "opponent_score": 131.5,
+      "manager": "Nick Cicchetti",
+      "team_name": "Ladies and Edelman",
+      "score": 7.0,
+      "opponent_score": 36.2,
       "won": false
     },
     "highest_score_in_a_loss": {
-      "manager": "Chris Mathison",
-      "team_name": "Mathisunday Funday",
-      "score": 152.72,
-      "opponent_score": 167.66,
+      "manager": "Adam Christie",
+      "team_name": "Grounded since 69'",
+      "score": 21.9,
+      "opponent_score": 46.82,
       "won": false
     },
     "lowest_score_in_a_win": {
-      "manager": "Kevin Fisher",
-      "team_name": "My Name Is Dak",
-      "score": 125.7,
-      "opponent_score": 118.3,
+      "manager": "Eric Kardesh",
+      "team_name": "Wings At The Wheel",
+      "score": 17.2,
+      "opponent_score": 0,
       "won": true
     },
     "best_single_player": {
-      "manager": "Marty Ahern",
-      "team_name": "Out With Ahernia",
-      "player_name": "Caleb Williams",
-      "points": 41.3
+      "manager": "Chris Blentzas",
+      "team_name": "LaPorta Potties",
+      "player_name": "Josh Allen",
+      "points": 46.8
     },
     "best_bench": {
-      "manager": "Eric Kardesh",
-      "team_name": "Wings At The Wheel",
-      "points": 90.5
+      "manager": "Jeff Pilon",
+      "team_name": "Dirty  Birds",
+      "points": 38.8
+    },
+    "mickey_miles": {
+      "manager": "Ethan Furtek",
+      "drop": 167.7,
+      "this_week": 0,
+      "last_week": 167.7
     }
   },
   "historical_seasons": [
@@ -2603,9 +2609,23 @@
       {
         "manager": "Dallas Sessions",
         "trades": 0,
-        "waiver_adds": 4,
+        "waiver_adds": 7,
         "tag": "The Steady Hand",
         "description": "A measured amount of activity \u2014 no extremes either way."
+      },
+      {
+        "manager": "Kevin Fisher",
+        "trades": 0,
+        "waiver_adds": 3,
+        "tag": "The Steady Hand",
+        "description": "A measured amount of activity \u2014 no extremes either way."
+      },
+      {
+        "manager": "Chris Mathison",
+        "trades": 0,
+        "waiver_adds": 2,
+        "tag": "The Ghost",
+        "description": "Sets a lineup and rarely touches the roster otherwise."
       },
       {
         "manager": "Marty Ahern",
@@ -2620,20 +2640,6 @@
         "waiver_adds": 0,
         "tag": "The Steady Hand",
         "description": "A measured amount of activity \u2014 no extremes either way."
-      },
-      {
-        "manager": "Chris Mathison",
-        "trades": 0,
-        "waiver_adds": 1,
-        "tag": "The Ghost",
-        "description": "Sets a lineup and rarely touches the roster otherwise."
-      },
-      {
-        "manager": "Kevin Fisher",
-        "trades": 0,
-        "waiver_adds": 1,
-        "tag": "The Ghost",
-        "description": "Sets a lineup and rarely touches the roster otherwise."
       }
     ],
     "coverage_note": "Transaction data available for 1 season(s) \u2014 older years may be missing if ESPN's API doesn't expose that far back."
@@ -2665,7 +2671,7 @@
       "total_seasons": 16
     },
     "least_appearances": {
-      "manager": "Greg Baudo",
+      "manager": "Eric Kardesh",
       "count": 5,
       "total_seasons": 16
     },
@@ -2829,11 +2835,11 @@
   ],
   "streaks": {
     "active_win_streak": {
-      "manager": "Nick Cicchetti",
+      "manager": "Kevin Fisher",
       "length": 4
     },
     "active_loss_streak": {
-      "manager": "cody callahan",
+      "manager": "Adam Christie",
       "length": 4
     },
     "alltime_win_streak": {
@@ -2855,7 +2861,7 @@
   },
   "best_never_won": {
     "manager": "Kevin Fisher",
-    "team_name": "My Name Is Dak",
+    "team_name": "My Name Is Matt",
     "wins": 115,
     "losses": 98,
     "win_pct": 0.54
@@ -2863,7 +2869,7 @@
   "elo_ratings": [
     {
       "manager": "Chris Mathison",
-      "rating": 1677
+      "rating": 1654
     },
     {
       "manager": "Kevin Fisher",
@@ -2874,40 +2880,40 @@
       "rating": 1572
     },
     {
+      "manager": "Eric Kardesh",
+      "rating": 1532
+    },
+    {
       "manager": "Adam Christie",
-      "rating": 1537
+      "rating": 1516
     },
     {
       "manager": "Dallas Sessions",
-      "rating": 1513
-    },
-    {
-      "manager": "Eric Kardesh",
-      "rating": 1509
-    },
-    {
-      "manager": "Nick Cicchetti",
-      "rating": 1478
+      "rating": 1492
     },
     {
       "manager": "Marty Ahern",
       "rating": 1477
     },
     {
+      "manager": "Nick Cicchetti",
+      "rating": 1456
+    },
+    {
       "manager": "Chris Blentzas",
-      "rating": 1422
+      "rating": 1443
+    },
+    {
+      "manager": "Greg Baudo",
+      "rating": 1421
     },
     {
       "manager": "cody callahan",
       "rating": 1413
     },
     {
-      "manager": "Greg Baudo",
-      "rating": 1400
-    },
-    {
       "manager": "Jeff Pilon",
-      "rating": 1349
+      "rating": 1371
     }
   ]
 }
