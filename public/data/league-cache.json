@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:49:20.471226+00:00",
+  "generated_at": "2026-11-06T16:35:26.132972+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
@@ -15,7 +15,7 @@
         "points_against": 864.7,
         "standing": 5,
         "division": "Minder",
-        "previous_rank": 7
+        "previous_rank": 4
       },
       {
         "manager": "Adam Christie",
@@ -27,7 +27,7 @@
         "points_against": 1029.8,
         "standing": 7,
         "division": "Baughfense",
-        "previous_rank": 5
+        "previous_rank": 7
       },
       {
         "manager": "cody callahan",
@@ -39,7 +39,7 @@
         "points_against": 874.7,
         "standing": 6,
         "division": "Baughfense",
-        "previous_rank": 6
+        "previous_rank": 5
       },
       {
         "manager": "Marty Ahern",
@@ -51,7 +51,7 @@
         "points_against": 986.3,
         "standing": 8,
         "division": "Baughfense",
-        "previous_rank": 8
+        "previous_rank": 10
       },
       {
         "manager": "Nick Cicchetti",
@@ -63,7 +63,7 @@
         "points_against": 949.5,
         "standing": 2,
         "division": "Baughfense",
-        "previous_rank": 4
+        "previous_rank": 6
       },
       {
         "manager": "Ethan Furtek",
@@ -123,7 +123,7 @@
         "points_against": 1071.3,
         "standing": 10,
         "division": "Minder",
-        "previous_rank": 11
+        "previous_rank": 8
       },
       {
         "manager": "Jeff Pilon",
@@ -135,7 +135,7 @@
         "points_against": 928.9,
         "standing": 9,
         "division": "Baughfense",
-        "previous_rank": 10
+        "previous_rank": 11
       },
       {
         "manager": "Chris Mathison",
@@ -152,67 +152,67 @@
     ]
   },
   "weekly_awards": {
-    "week": 8,
+    "week": 9,
     "highest_score": {
-      "manager": "Dallas Sessions",
-      "team_name": "Bonnie Blue 42",
-      "score": 166.58,
-      "opponent_score": 78.4,
+      "manager": "Kevin Fisher",
+      "team_name": "My Name Is Matt",
+      "score": 18.3,
+      "opponent_score": 9.48,
       "won": true
     },
     "lowest_score": {
       "manager": "Nick Cicchetti",
       "team_name": "Ladies and Edelman",
-      "score": 78.4,
-      "opponent_score": 166.58,
+      "score": 0,
+      "opponent_score": 2.0,
       "won": false
     },
-    "closest_game_margin": 1.9,
+    "closest_game_margin": 0,
     "closest_game_team": {
-      "manager": "cody callahan",
-      "team_name": "Driven' D'brickashawe'd",
-      "score": 107.64,
-      "opponent_score": 105.76,
+      "manager": "Greg Baudo",
+      "team_name": "Butt  Dart King",
+      "score": 0,
+      "opponent_score": 0,
+      "won": false
+    },
+    "biggest_blowout_margin": 14.5,
+    "biggest_blowout_team": {
+      "manager": "Chris Mathison",
+      "team_name": "Mathisunday Funday",
+      "score": 14.54,
+      "opponent_score": 0,
       "won": true
     },
-    "biggest_blowout_margin": 88.2,
-    "biggest_blowout_team": {
-      "manager": "Nick Cicchetti",
-      "team_name": "Ladies and Edelman",
-      "score": 78.4,
-      "opponent_score": 166.58,
-      "won": false
-    },
     "highest_score_in_a_loss": {
-      "manager": "Chris Blentzas",
-      "team_name": "LaPorta Potties",
-      "score": 123.66,
-      "opponent_score": 138.94,
+      "manager": "Jeff Pilon",
+      "team_name": "Dirty  Birds",
+      "score": 9.48,
+      "opponent_score": 18.3,
       "won": false
     },
     "lowest_score_in_a_win": {
-      "manager": "cody callahan",
-      "team_name": "Driven' D'brickashawe'd",
-      "score": 107.64,
-      "opponent_score": 105.76,
+      "manager": "Eric Kardesh",
+      "team_name": "Wings At The Wheel",
+      "score": 2.0,
+      "opponent_score": 0,
       "won": true
     },
     "best_single_player": {
-      "manager": "Dallas Sessions",
-      "team_name": "Bonnie Blue 42",
-      "player_name": "Joe Burrow",
-      "points": 51.5
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "player_name": "Trevor Lawrence",
+      "points": 15.6
     },
     "best_bench": {
-      "manager": "Dallas Sessions",
-      "team_name": "Bonnie Blue 42",
-      "points": 99.9
+      "manager": "Jeff Pilon",
+      "team_name": "Dirty  Birds",
+      "points": 20.0
     },
     "mickey_miles": {
-      "manager": "Marty Ahern",
-      "drop": 40.1,
-      "this_week": 92.5,
-      "last_week": 132.6
+      "manager": "Dallas Sessions",
+      "drop": 157.7,
+      "this_week": 8.9,
+      "last_week": 166.6
     }
   },
   "historical_seasons": [
@@ -2622,6 +2622,13 @@
         "description": "Lives on the waiver wire, adding constantly."
       },
       {
+        "manager": "Marty Ahern",
+        "trades": 2,
+        "waiver_adds": 15,
+        "tag": "The Steady Hand",
+        "description": "A measured amount of activity \u2014 no extremes either way."
+      },
+      {
         "manager": "Chris Blentzas",
         "trades": 0,
         "waiver_adds": 16,
@@ -2629,16 +2636,16 @@
         "description": "Lives on the waiver wire, adding constantly."
       },
       {
-        "manager": "Marty Ahern",
-        "trades": 2,
-        "waiver_adds": 13,
+        "manager": "Chris Mathison",
+        "trades": 0,
+        "waiver_adds": 15,
         "tag": "The Steady Hand",
         "description": "A measured amount of activity \u2014 no extremes either way."
       },
       {
-        "manager": "Chris Mathison",
+        "manager": "cody callahan",
         "trades": 0,
-        "waiver_adds": 14,
+        "waiver_adds": 7,
         "tag": "The Steady Hand",
         "description": "A measured amount of activity \u2014 no extremes either way."
       },
@@ -2657,6 +2664,13 @@
         "description": "A measured amount of activity \u2014 no extremes either way."
       },
       {
+        "manager": "Kevin Fisher",
+        "trades": 0,
+        "waiver_adds": 6,
+        "tag": "The Steady Hand",
+        "description": "A measured amount of activity \u2014 no extremes either way."
+      },
+      {
         "manager": "Greg Baudo",
         "trades": 2,
         "waiver_adds": 4,
@@ -2664,21 +2678,7 @@
         "description": "A measured amount of activity \u2014 no extremes either way."
       },
       {
-        "manager": "cody callahan",
-        "trades": 0,
-        "waiver_adds": 6,
-        "tag": "The Steady Hand",
-        "description": "A measured amount of activity \u2014 no extremes either way."
-      },
-      {
         "manager": "Ethan Furtek",
-        "trades": 0,
-        "waiver_adds": 5,
-        "tag": "The Steady Hand",
-        "description": "A measured amount of activity \u2014 no extremes either way."
-      },
-      {
-        "manager": "Kevin Fisher",
         "trades": 0,
         "waiver_adds": 5,
         "tag": "The Steady Hand",
@@ -2728,12 +2728,12 @@
       "total_seasons": 16
     },
     "least_appearances": {
-      "manager": "Eric Kardesh",
+      "manager": "Greg Baudo",
       "count": 5,
       "total_seasons": 16
     },
     "longest_drought": {
-      "manager": "Nick Cicchetti",
+      "manager": "Jeff Pilon",
       "seasons": 3
     }
   },
@@ -2926,11 +2926,11 @@
   "elo_ratings": [
     {
       "manager": "Kevin Fisher",
-      "rating": 1654
+      "rating": 1659
     },
     {
       "manager": "Chris Mathison",
-      "rating": 1621
+      "rating": 1629
     },
     {
       "manager": "Ethan Furtek",
@@ -2938,27 +2938,27 @@
     },
     {
       "manager": "Eric Kardesh",
-      "rating": 1556
+      "rating": 1568
     },
     {
       "manager": "Dallas Sessions",
-      "rating": 1535
+      "rating": 1515
     },
     {
       "manager": "Adam Christie",
       "rating": 1505
     },
     {
-      "manager": "Nick Cicchetti",
-      "rating": 1464
+      "manager": "cody callahan",
+      "rating": 1473
     },
     {
-      "manager": "cody callahan",
-      "rating": 1453
+      "manager": "Nick Cicchetti",
+      "rating": 1452
     },
     {
       "manager": "Marty Ahern",
-      "rating": 1433
+      "rating": 1425
     },
     {
       "manager": "Greg Baudo",
@@ -2970,7 +2970,7 @@
     },
     {
       "manager": "Jeff Pilon",
-      "rating": 1344
+      "rating": 1339
     }
   ]
 }
