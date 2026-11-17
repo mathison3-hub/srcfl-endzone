@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-13T16:55:57.931944+00:00",
+  "generated_at": "2026-11-17T18:07:07.981177+00:00",
   "league_id": "298919",
   "current_season": {
     "year": 2026,
-    "current_week": 10,
+    "current_week": 11,
     "teams": [
       {
         "manager": "Dallas Sessions",
         "team_name": "Bonnie Blue 42",
         "team_id": 1,
-        "wins": 5,
+        "wins": 6,
         "losses": 4,
-        "points_for": 1171.5,
-        "points_against": 946.8,
+        "points_for": 1328.5,
+        "points_against": 1086.9,
         "standing": 5,
         "division": "Minder",
         "previous_rank": 4
@@ -22,10 +22,10 @@
         "team_name": "Bets on Jets",
         "team_id": 2,
         "wins": 3,
-        "losses": 6,
-        "points_for": 1092.6,
-        "points_against": 1211.8,
-        "standing": 8,
+        "losses": 7,
+        "points_for": 1198.4,
+        "points_against": 1344.7,
+        "standing": 10,
         "division": "Baughfense",
         "previous_rank": 9
       },
@@ -33,10 +33,10 @@
         "manager": "cody callahan",
         "team_name": "Driven' D'brickashawe'd",
         "team_id": 3,
-        "wins": 4,
+        "wins": 5,
         "losses": 5,
-        "points_for": 1026.9,
-        "points_against": 1049.8,
+        "points_for": 1219.9,
+        "points_against": 1195.7,
         "standing": 6,
         "division": "Baughfense",
         "previous_rank": 7
@@ -46,10 +46,10 @@
         "team_name": "Out With Ahernia",
         "team_id": 4,
         "wins": 3,
-        "losses": 6,
-        "points_for": 1008.6,
-        "points_against": 1099.1,
-        "standing": 9,
+        "losses": 7,
+        "points_for": 1148.8,
+        "points_against": 1256.1,
+        "standing": 11,
         "division": "Baughfense",
         "previous_rank": 10
       },
@@ -57,10 +57,10 @@
         "manager": "Nick Cicchetti",
         "team_name": "Ladies and Edelman",
         "team_id": 5,
-        "wins": 5,
+        "wins": 6,
         "losses": 4,
-        "points_for": 1023.8,
-        "points_against": 1094.4,
+        "points_for": 1123.0,
+        "points_against": 1177.9,
         "standing": 2,
         "division": "Baughfense",
         "previous_rank": 5
@@ -70,10 +70,10 @@
         "team_name": "NH 2 NEW LIFE",
         "team_id": 6,
         "wins": 8,
-        "losses": 1,
-        "points_for": 1269.6,
-        "points_against": 1056.3,
-        "standing": 1,
+        "losses": 2,
+        "points_for": 1353.1,
+        "points_against": 1155.5,
+        "standing": 3,
         "division": "Minder",
         "previous_rank": 1
       },
@@ -81,11 +81,11 @@
         "manager": "Chris Blentzas",
         "team_name": "LaPorta Potties",
         "team_id": 7,
-        "wins": 3,
+        "wins": 4,
         "losses": 6,
-        "points_for": 1002.8,
-        "points_against": 1076.8,
-        "standing": 11,
+        "points_for": 1146.3,
+        "points_against": 1217.6,
+        "standing": 8,
         "division": "Baughfense",
         "previous_rank": 11
       },
@@ -93,11 +93,11 @@
         "manager": "Kevin Fisher",
         "team_name": "My Name Is Matt",
         "team_id": 8,
-        "wins": 7,
+        "wins": 8,
         "losses": 2,
-        "points_for": 1066.0,
-        "points_against": 973.9,
-        "standing": 3,
+        "points_for": 1198.9,
+        "points_against": 1079.6,
+        "standing": 1,
         "division": "Minder",
         "previous_rank": 2
       },
@@ -106,9 +106,9 @@
         "team_name": "Wings At The Wheel",
         "team_id": 9,
         "wins": 6,
-        "losses": 3,
-        "points_for": 1209.1,
-        "points_against": 1036.0,
+        "losses": 4,
+        "points_for": 1354.9,
+        "points_against": 1229.0,
         "standing": 4,
         "division": "Minder",
         "previous_rank": 3
@@ -118,9 +118,9 @@
         "team_name": "Butt  Dart King",
         "team_id": 10,
         "wins": 3,
-        "losses": 6,
-        "points_for": 1094.3,
-        "points_against": 1201.8,
+        "losses": 7,
+        "points_for": 1208.5,
+        "points_against": 1357.2,
         "standing": 12,
         "division": "Minder",
         "previous_rank": 8
@@ -129,11 +129,11 @@
         "manager": "Jeff Pilon",
         "team_name": "Dirty  Birds",
         "team_id": 11,
-        "wins": 3,
+        "wins": 4,
         "losses": 6,
-        "points_for": 896.5,
-        "points_against": 1015.0,
-        "standing": 10,
+        "points_for": 1051.9,
+        "points_against": 1129.2,
+        "standing": 7,
         "division": "Baughfense",
         "previous_rank": 12
       },
@@ -142,10 +142,10 @@
         "team_name": "Mathisunday Funday",
         "team_id": 12,
         "wins": 4,
-        "losses": 5,
-        "points_for": 1030.9,
-        "points_against": 1131.2,
-        "standing": 7,
+        "losses": 6,
+        "points_for": 1171.7,
+        "points_against": 1274.6,
+        "standing": 9,
         "division": "Minder",
         "previous_rank": 6
       }
@@ -154,65 +154,65 @@
   "weekly_awards": {
     "week": 10,
     "highest_score": {
-      "manager": "Marty Ahern",
-      "team_name": "Out With Ahernia",
-      "score": 34.6,
-      "opponent_score": 0,
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "score": 192.98,
+      "opponent_score": 145.84,
       "won": true
     },
     "lowest_score": {
-      "manager": "Eric Kardesh",
-      "team_name": "Wings At The Wheel",
-      "score": 0,
-      "opponent_score": 20.3,
+      "manager": "Ethan Furtek",
+      "team_name": "NH 2 NEW LIFE",
+      "score": 83.46,
+      "opponent_score": 99.26,
       "won": false
     },
-    "closest_game_margin": 6.2,
+    "closest_game_margin": 2.7,
     "closest_game_team": {
-      "manager": "Adam Christie",
-      "team_name": "Bets on Jets",
-      "score": 6.2,
-      "opponent_score": 0,
+      "manager": "Chris Blentzas",
+      "team_name": "LaPorta Potties",
+      "score": 143.48,
+      "opponent_score": 140.82,
       "won": true
     },
-    "biggest_blowout_margin": 34.6,
+    "biggest_blowout_margin": 47.1,
     "biggest_blowout_team": {
-      "manager": "Marty Ahern",
-      "team_name": "Out With Ahernia",
-      "score": 34.6,
-      "opponent_score": 0,
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "score": 192.98,
+      "opponent_score": 145.84,
       "won": true
     },
     "highest_score_in_a_loss": {
       "manager": "Eric Kardesh",
       "team_name": "Wings At The Wheel",
-      "score": 0,
-      "opponent_score": 20.3,
+      "score": 145.84,
+      "opponent_score": 192.98,
       "won": false
     },
     "lowest_score_in_a_win": {
-      "manager": "Adam Christie",
-      "team_name": "Bets on Jets",
-      "score": 6.2,
-      "opponent_score": 0,
+      "manager": "Nick Cicchetti",
+      "team_name": "Ladies and Edelman",
+      "score": 99.26,
+      "opponent_score": 83.46,
       "won": true
     },
     "best_single_player": {
-      "manager": "Chris Mathison",
-      "team_name": "Mathisunday Funday",
-      "player_name": "Isaiah Likely",
-      "points": 28.7
+      "manager": "cody callahan",
+      "team_name": "Driven' D'brickashawe'd",
+      "player_name": "Christian McCaffrey",
+      "points": 47.3
     },
     "best_bench": {
-      "manager": "Nick Cicchetti",
-      "team_name": "Ladies and Edelman",
-      "points": 12.2
+      "manager": "Chris Mathison",
+      "team_name": "Mathisunday Funday",
+      "points": 58.2
     },
     "mickey_miles": {
-      "manager": "Dallas Sessions",
-      "drop": 175.1,
-      "this_week": 0,
-      "last_week": 175.1
+      "manager": "Ethan Furtek",
+      "drop": 98.5,
+      "this_week": 83.5,
+      "last_week": 182.0
     }
   },
   "historical_seasons": [
@@ -2624,35 +2624,35 @@
       {
         "manager": "Dallas Sessions",
         "trades": 0,
-        "waiver_adds": 20,
-        "tag": "The Waiver Hawk",
-        "description": "Lives on the waiver wire, adding constantly."
-      },
-      {
-        "manager": "Chris Mathison",
-        "trades": 0,
-        "waiver_adds": 16,
+        "waiver_adds": 21,
         "tag": "The Waiver Hawk",
         "description": "Lives on the waiver wire, adding constantly."
       },
       {
         "manager": "Chris Blentzas",
         "trades": 0,
-        "waiver_adds": 16,
+        "waiver_adds": 18,
         "tag": "The Waiver Hawk",
         "description": "Lives on the waiver wire, adding constantly."
       },
       {
-        "manager": "cody callahan",
+        "manager": "Chris Mathison",
+        "trades": 0,
+        "waiver_adds": 17,
+        "tag": "The Waiver Hawk",
+        "description": "Lives on the waiver wire, adding constantly."
+      },
+      {
+        "manager": "Ethan Furtek",
         "trades": 0,
         "waiver_adds": 10,
         "tag": "The Steady Hand",
         "description": "A measured amount of activity \u2014 no extremes either way."
       },
       {
-        "manager": "Ethan Furtek",
+        "manager": "cody callahan",
         "trades": 0,
-        "waiver_adds": 9,
+        "waiver_adds": 10,
         "tag": "The Steady Hand",
         "description": "A measured amount of activity \u2014 no extremes either way."
       },
@@ -2728,7 +2728,7 @@
       "total_seasons": 16
     },
     "least_appearances": {
-      "manager": "Greg Baudo",
+      "manager": "Eric Kardesh",
       "count": 5,
       "total_seasons": 16
     },
@@ -2765,8 +2765,8 @@
     "team_name": "NH 2 NEW LIFE",
     "prev_year": 2025,
     "prev_standing": 9,
-    "current_standing": 1,
-    "improvement": 8
+    "current_standing": 3,
+    "improvement": 6
   },
   "comeback_by_season": [
     {
@@ -2892,11 +2892,11 @@
   ],
   "streaks": {
     "active_win_streak": {
-      "manager": "Ethan Furtek",
-      "length": 8
+      "manager": "Dallas Sessions",
+      "length": 5
     },
     "active_loss_streak": {
-      "manager": "Jeff Pilon",
+      "manager": "Adam Christie",
       "length": 5
     },
     "alltime_win_streak": {
@@ -2917,32 +2917,28 @@
     }
   },
   "best_never_won": {
-    "manager": "Kevin Fisher",
-    "team_name": "My Name Is Matt",
-    "wins": 121,
-    "losses": 100,
-    "win_pct": 0.548
+    "manager": "Adam Christie",
+    "team_name": "Bets on Jets",
+    "wins": 104,
+    "losses": 119,
+    "win_pct": 0.466
   },
   "elo_ratings": [
     {
+      "manager": "Kevin Fisher",
+      "rating": 1668
+    },
+    {
       "manager": "Ethan Furtek",
-      "rating": 1641
+      "rating": 1609
     },
     {
       "manager": "Chris Mathison",
-      "rating": 1637
-    },
-    {
-      "manager": "Kevin Fisher",
-      "rating": 1636
+      "rating": 1605
     },
     {
       "manager": "Dallas Sessions",
-      "rating": 1526
-    },
-    {
-      "manager": "Adam Christie",
-      "rating": 1517
+      "rating": 1558
     },
     {
       "manager": "Eric Kardesh",
@@ -2950,27 +2946,31 @@
     },
     {
       "manager": "Nick Cicchetti",
-      "rating": 1475
+      "rating": 1507
+    },
+    {
+      "manager": "Adam Christie",
+      "rating": 1485
     },
     {
       "manager": "cody callahan",
       "rating": 1461
     },
     {
-      "manager": "Marty Ahern",
-      "rating": 1446
+      "manager": "Chris Blentzas",
+      "rating": 1443
     },
     {
-      "manager": "Chris Blentzas",
-      "rating": 1411
+      "manager": "Marty Ahern",
+      "rating": 1414
     },
     {
       "manager": "Greg Baudo",
-      "rating": 1409
+      "rating": 1377
     },
     {
       "manager": "Jeff Pilon",
-      "rating": 1326
+      "rating": 1358
     }
   ]
 }
